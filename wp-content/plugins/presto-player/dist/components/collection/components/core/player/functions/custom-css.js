@@ -1,0 +1,1 @@
+export default(e,t)=>{if(!t)return;const d=document.createElement("style");e.shadowRoot.append(d),d.appendChild(document.createTextNode(t))};

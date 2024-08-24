@@ -1,0 +1,118 @@
+{
+  "$schema": "https://schemas.wp.org/trunk/block.json",
+  "name": "presto-player/youtube",
+  "title": "Presto Youtube",
+  "category": "presto",
+  "description": "Presto YouTube block.",
+  "keywords": [
+    "video"
+  ],
+  "textdomain": "presto-player",
+  "attributes": {
+    "visibility": {
+      "type": "string",
+      "default": "public"
+    },
+    "color": {
+      "type": "string",
+      "default": "#00b3ff"
+    },
+    "blockAlignment": {
+      "type": "string"
+    },
+    "mutedPreview": {
+      "type": "object",
+      "default": {
+        "enabled": false,
+        "captions": false
+      }
+    },
+    "mutedOverlay": {
+      "type": "object",
+      "default": {
+        "enabled": false,
+        "src": "",
+        "width": 200,
+        "focalPoint": {
+          "x": 0.5,
+          "y": 0.5
+        }
+      }
+    },
+    "mutedPreviewCaptions": {
+      "type": "boolean"
+    },
+    "mutedOverlayType": {
+      "type": "string",
+      "default": "text"
+    },
+    "mutedOverlayText": {
+      "type": "string",
+      "default": "Click to play"
+    },
+    "mutedOverlaySrc": {
+      "type": "string"
+    },
+    "mutedOverlayImageWidth": {
+      "type": "number",
+      "default": 200
+    },
+    "mutedOverlayFocalPoint": {
+      "type": "object"
+    },
+    "autoplay": {
+      "type": "boolean"
+    },
+    "preload": {
+      "type": "string"
+    },
+    "playsInline": {
+      "type": "boolean",
+      "default": true
+    },
+    "id": {
+      "type": "number"
+    },
+    "attachment_id": {
+      "type": "number"
+    },
+    "src": {
+      "type": "string"
+    },
+    "imageID": {
+      "type": "number"
+    },
+    "poster": {
+      "type": "string"
+    },
+    "content": {
+      "type": "boolean"
+    },
+    "preset": {
+      "type": "number"
+    },
+    "chapters": {
+      "type": "array",
+      "default": []
+    },
+    "overlays": {
+      "type": "array",
+      "default": []
+    },
+    "tracks": {
+      "type": "array",
+      "items": {
+        "type": "object"
+      },
+      "default": []
+    },
+    "video_id": {
+      "type": "string"
+    }
+  },
+  "supports": {
+    "align": true,
+    "inserter": false
+  },
+  "script": "presto-components"
+}

@@ -1,0 +1,39 @@
+.presto-inline-edit {
+  &__text {
+    display: inline;
+    margin: 0;
+    margin-right: 8px;
+  }
+  &__input {
+    flex-grow: 1;
+    max-width: 640px;
+    input {
+      height: 36px;
+    }
+  }
+  .presto-inline-edit__button {
+    margin-right: 4px;
+  }
+  &__edit {
+    cursor: pointer;
+    display: inline-flex;
+    justify-content: center;
+    align-items: center;
+
+    width: 28px;
+    height: 28px;
+    border-radius: 50%;
+    border: none;
+    opacity: 0.5;
+    color: #fff;
+    background-color: var(--wp-admin-theme-color);
+
+    &:hover {
+      opacity: 1;
+      background-color: var(--wp-admin-theme-color-darker-10);
+    }
+  }
+  &--editing {
+    align-items: stretch;
+  }
+}

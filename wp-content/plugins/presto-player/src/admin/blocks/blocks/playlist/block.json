@@ -1,0 +1,73 @@
+{
+  "$schema": "https://schemas.wp.org/trunk/block.json",
+  "name": "presto-player/playlist",
+  "apiVersion": 2,
+  "title": "Presto Playlist",
+  "category": "presto",
+  "description": "Create a playlist of videos or audio.",
+  "keywords": ["playlist", "video"],
+  "textdomain": "presto-player",
+  "supports": {
+    "align": true,
+    "multiple": false,
+    "color": {
+      "gradients": false,
+      "link": false,
+      "__experimentalDefaultControls": {
+        "background": true,
+        "text": true
+      }
+    },
+    "__experimentalBorder": {
+      "color": true,
+      "radius": true,
+      "style": true,
+      "width": true,
+      "__experimentalSkipSerialization": true,
+      "__experimentalDefaultControls": {
+        "color": true,
+        "radius": true,
+        "style": true,
+        "width": true
+      }
+    }
+  },
+  "attributes": {
+    "heading": {
+      "type": "string",
+      "default": "Playlist"
+    },
+    "selectedItem": {
+      "type": "number",
+      "default": null
+    },
+    "listTextSingular": {
+      "type": "string",
+      "default": "Video"
+    },
+    "listTextPlural": {
+      "type": "string",
+      "default": "Videos"
+    },
+    "color": {
+      "type": "string"
+    },
+    "textColor": {
+      "type": "string"
+    },
+    "highlightColor": {
+      "type": "string"
+    },
+    "transitionDuration": {
+      "type": "number",
+      "default": 5
+    },
+    "matchPlaylistToPlayerColor": {
+      "type": "boolean"
+    }
+  },
+  "providesContext": {
+    "presto-player/playlist-media-id": "selectedItem"
+  },
+  "script": "presto-components"
+}

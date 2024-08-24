@@ -1,0 +1,1 @@
+import{newE2EPage}from"@stencil/core/testing";describe("presto-action-bar",(()=>{it("renders",(async()=>{const t=await newE2EPage();await t.setContent("<presto-action-bar></presto-action-bar>");const e=await t.find("presto-action-bar");expect(e).toHaveClass("hydrated")}))}));

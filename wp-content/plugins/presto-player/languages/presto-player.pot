@@ -1,0 +1,3650 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2024-07-30T20:38:14+00:00\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"X-Generator: WP-CLI 2.9.0\n"
+
+#: admin/analytics/components/DataTable.js:34
+#: admin/ui/Table.js:14
+msgid "No data available."
+msgstr ""
+
+#: admin/analytics/components/DatePicker.js:22
+#: admin/blocks/shared/audio-placeholder.js:41
+#: admin/blocks/shared/components/ColorPopup.js:82
+#: admin/blocks/shared/placeholder.js:52
+msgid "Apply"
+msgstr ""
+
+#: admin/analytics/components/DatePicker.js:23
+#: admin/blocks/blocks/bunny/popup/stream/CollectionHeader.js:98
+#: admin/blocks/blocks/bunny/popup/stream/collections/CreateCollection.js:79
+#: admin/blocks/blocks/bunny/popup/stream/Sidebar.js:158
+#: admin/blocks/blocks/playlist-list/create.js:35
+#: admin/blocks/shared/audio-placeholder.js:140
+#: admin/blocks/shared/audio-placeholder.js:144
+#: admin/blocks/shared/audioPresets/Edit.js:340
+#: admin/blocks/shared/audioPresets/Preset.js:241
+#: admin/blocks/shared/components/ColorPopup.js:79
+#: admin/blocks/shared/overlays/Edit.js:205
+#: admin/blocks/shared/placeholder.js:151
+#: admin/blocks/shared/placeholder.js:155
+#: admin/blocks/shared/presets/Edit.js:369
+#: admin/blocks/shared/presets/parts/YoutubeChannelId.js:99
+#: admin/blocks/shared/presets/Preset.js:241
+#: admin/settings/components/Integration.js:117
+#: admin/settings/components/ToggleControl.js:56
+msgid "Cancel"
+msgstr ""
+
+#: admin/analytics/components/OverviewPanel.js:16
+msgid "Views"
+msgstr ""
+
+#: admin/analytics/components/OverviewPanel.js:20
+msgid "Watch Time"
+msgstr ""
+
+#: admin/analytics/components/TopUsers.js:49
+#: admin/analytics/components/TopVideos.js:50
+#: admin/blocks/blocks/bunny/popup/stream/Sidebar.js:97
+#: admin/blocks/shared/media/MediaPopup.js:108
+#: admin/settings/pages/parts/Webhooks/NewWebhook.js:72
+msgid "Name"
+msgstr ""
+
+#: admin/analytics/components/TopUsers.js:54
+#: admin/analytics/components/TopVideos.js:63
+msgid "Total View"
+msgstr ""
+
+#: admin/analytics/components/TopUsers.js:59
+#: admin/analytics/components/TopVideos.js:70
+msgid "Avg View Time"
+msgstr ""
+
+#: admin/analytics/components/TopUsers.js:72
+msgid "Top Users"
+msgstr ""
+
+#: admin/analytics/components/TopVideos.js:56
+#: admin/blocks/shared/components/SelectMediaDropdown.js:144
+#: admin/blocks/shared/ProvidersPlaceholder/ProvidersPlaceholder.js:261
+#: admin/integrations/divi/fields/VideoSelector/VideoSelector.jsx:113
+msgid "Untitled"
+msgstr ""
+
+#: admin/analytics/components/TopVideos.js:85
+msgid "View Details"
+msgstr ""
+
+#: admin/analytics/components/TopVideos.js:98
+msgid "Top Media"
+msgstr ""
+
+#: admin/analytics/components/TotalVideoViewsByUser.js:26
+msgid "Total Views"
+msgstr ""
+
+#: admin/analytics/components/TotalViewsGraph.js:120
+msgid "%d Unique Views"
+msgstr ""
+
+#: admin/analytics/components/TotalWatchGraph.js:116
+msgid "%s average watch time"
+msgstr ""
+
+#: admin/analytics/components/VideoAverageWatchTime.js:26
+#: admin/analytics/components/VideoAverageWatchTimeByUser.js:26
+msgid "Average Watch Time"
+msgstr ""
+
+#: admin/analytics/components/VideoAverageWatchTime.js:27
+#: admin/analytics/components/VideoAverageWatchTimeByUser.js:27
+#: admin/analytics/components/VideoTotalWatchTimeByUser.js:27
+msgid "seconds"
+msgstr ""
+
+#: admin/analytics/components/VideoTimeline.js:115
+msgid "Audience Retention"
+msgstr ""
+
+#: admin/analytics/components/VideoTotalWatchTimeByUser.js:26
+msgid "Total Watch Time"
+msgstr ""
+
+#: admin/analytics/components/VideoViews.js:27
+msgid "Unique Views"
+msgstr ""
+
+#: admin/analytics/pages/AnalyticsUpgrade.js:13
+msgid "Get detailed video insights."
+msgstr ""
+
+#: admin/analytics/pages/AnalyticsUpgrade.js:15
+msgid "Upgrade to Pro and get video insights like plays, watch-time, and drop off numbers."
+msgstr ""
+
+#: admin/analytics/pages/AnalyticsUpgrade.js:25
+#: admin/settings/components/Disabled.js:29
+#: admin/settings/pages/Performance.js:67
+msgid "Learn More"
+msgstr ""
+
+#: admin/analytics/pages/Dashboard.js:33
+#: admin/settings/pages/General.js:281
+#: Services/Menu.php:28
+#: Services/Menu.php:29
+msgid "Analytics"
+msgstr ""
+
+#: admin/analytics/pages/Dashboard.js:76
+msgid "Analytics are currently disabled. To collect analytics, turn them on in your settings page."
+msgstr ""
+
+#: admin/analytics/pages/User.js:66
+#: admin/analytics/pages/Video.js:149
+msgid "Back to Dashboard"
+msgstr ""
+
+#: admin/analytics/pages/User.js:117
+msgid "View Profile"
+msgstr ""
+
+#: admin/analytics/util.js:10
+msgid "%d hours"
+msgstr ""
+
+#: admin/analytics/util.js:13
+msgid "%d minutes"
+msgstr ""
+
+#: admin/analytics/util.js:16
+msgid "and"
+msgstr ""
+
+#: admin/analytics/util.js:19
+msgid "%d seconds"
+msgstr ""
+
+#: admin/blocks/blocks/audio/AudioBlockInspectorControl.js:44
+#: admin/blocks/blocks/audio/AudioBlockInspectorControl.js:50
+#: admin/blocks/blocks/playlist-list-item/edit.js:33
+#: admin/blocks/blocks/playlist-list-item/Placeholder.js:53
+#: admin/blocks/blocks/playlist-list-item/Placeholder.js:55
+#: admin/blocks/blocks/playlist-list/create.js:17
+#: admin/blocks/blocks/playlist-list/create.js:19
+#: admin/blocks/shared/chapters/components/Chapter.js:37
+msgid "Title"
+msgstr ""
+
+#: admin/blocks/blocks/audio/AudioBlockInspectorControl.js:62
+#: admin/blocks/shared/BlockInspectorControls.js:64
+#: admin/blocks/shared/chapters/ChaptersPanel.js:6
+#: Services/Translation.php:69
+msgid "Chapters"
+msgstr ""
+
+#: admin/blocks/blocks/audio/AudioBlockInspectorControl.js:71
+msgid "Audio Settings"
+msgstr ""
+
+#: admin/blocks/blocks/audio/AudioBlockInspectorControl.js:74
+#: admin/blocks/shared/settings/index.js:167
+#: Integrations/Elementor/VideoWidget.php:278
+msgid "Autoplay"
+msgstr ""
+
+#: admin/blocks/blocks/audio/AudioBlockInspectorControl.js:86
+#: admin/blocks/shared/settings/index.js:192
+msgid "Performance Preference"
+msgstr ""
+
+#: admin/blocks/blocks/audio/AudioBlockInspectorControl.js:102
+msgid "Audio Playback Speed"
+msgstr ""
+
+#: admin/blocks/blocks/audio/AudioBlockInspectorControl.js:106
+#: admin/blocks/shared/settings/index.js:219
+msgid "Page Load Speed"
+msgstr ""
+
+#: admin/blocks/blocks/audio/AudioBlockInspectorControl.js:110
+#: admin/blocks/shared/settings/index.js:223
+msgid "Page Load Speed (Extreme)"
+msgstr ""
+
+#: admin/blocks/blocks/audio/AudioBlockInspectorControl.js:120
+#: admin/blocks/shared/settings/index.js:232
+msgid "Poster image"
+msgstr ""
+
+#: admin/blocks/blocks/audio/AudioBlockInspectorControl.js:123
+#: admin/blocks/shared/settings/index.js:235
+msgid "Select poster image"
+msgstr ""
+
+#: admin/blocks/blocks/audio/AudioBlockInspectorControl.js:134
+#: admin/blocks/shared/audioPresets/Behavior.js:80
+#: admin/blocks/shared/branding/index.js:91
+#: admin/blocks/shared/presets/Behavior.js:135
+#: admin/blocks/shared/settings/index.js:246
+#: admin/blocks/shared/settings/MutedPreviewOptions.js:64
+#: admin/settings/components/Media.js:48
+msgid "Select"
+msgstr ""
+
+#: admin/blocks/blocks/audio/AudioBlockInspectorControl.js:135
+#: admin/blocks/blocks/audio/edit.js:128
+#: admin/blocks/blocks/bunny/edit.js:414
+#: admin/blocks/blocks/hosted/edit.js:213
+#: admin/blocks/blocks/vimeo/edit.js:119
+#: admin/blocks/blocks/youtube/edit.js:119
+#: admin/blocks/shared/branding/index.js:92
+#: admin/blocks/shared/settings/index.js:247
+#: admin/blocks/shared/settings/MutedPreviewOptions.js:65
+#: admin/settings/components/Media.js:49
+msgid "Replace"
+msgstr ""
+
+#: admin/blocks/blocks/audio/AudioBlockInspectorControl.js:142
+#: admin/blocks/shared/settings/index.js:254
+msgid "The current poster image url is %s"
+msgstr ""
+
+#: admin/blocks/blocks/audio/AudioBlockInspectorControl.js:145
+#: admin/blocks/shared/settings/index.js:257
+msgid "There is no poster image currently selected"
+msgstr ""
+
+#: admin/blocks/blocks/audio/AudioBlockInspectorControl.js:156
+#: admin/blocks/shared/branding/index.js:113
+#: admin/blocks/shared/settings/index.js:268
+#: admin/blocks/shared/settings/MutedPreviewOptions.js:86
+#: admin/settings/components/Media.js:64
+msgid "Remove"
+msgstr ""
+
+#: admin/blocks/blocks/audio/AudioBlockInspectorControl.js:164
+msgid "Audio Preset"
+msgstr ""
+
+#: admin/blocks/blocks/audio/AudioBlockInspectorControl.js:171
+#: admin/blocks/shared/BlockInspectorControls.js:96
+msgid "Global Player Branding"
+msgstr ""
+
+#: admin/blocks/blocks/audio/AudioTranscription.js:42
+msgid "Transcriptions are .vtt files that help make your content more accesible to a wider range of users."
+msgstr ""
+
+#. translators: %s: Label of the video text track e.g: "French subtitles"
+#: admin/blocks/blocks/audio/AudioTranscription.js:61
+#: admin/blocks/shared/tracks/TracksEditor.js:73
+msgid "Edit %s"
+msgstr ""
+
+#: admin/blocks/blocks/audio/AudioTranscription.js:65
+#: admin/blocks/shared/tracks/TracksEditor.js:77
+#: Integrations/BeaverBuilder/ReusableVideoModule/Module.php:140
+#: Integrations/Elementor/ReusableVideoWidget.php:128
+msgid "Edit"
+msgstr ""
+
+#: admin/blocks/blocks/audio/AudioTranscription.js:73
+#: admin/blocks/blocks/audio/AudioTranscription.js:186
+msgid "Transcriptions"
+msgstr ""
+
+#: admin/blocks/blocks/audio/AudioTranscription.js:90
+msgid "Edit transcription track"
+msgstr ""
+
+#: admin/blocks/blocks/audio/AudioTranscription.js:93
+#: admin/blocks/shared/tracks/TracksEditor.js:105
+msgid "File"
+msgstr ""
+
+#: admin/blocks/blocks/audio/AudioTranscription.js:106
+#: admin/blocks/shared/tracks/TracksEditor.js:118
+msgid "Label"
+msgstr ""
+
+#: admin/blocks/blocks/audio/AudioTranscription.js:108
+#: admin/blocks/shared/tracks/TracksEditor.js:120
+msgid "Title of track"
+msgstr ""
+
+#: admin/blocks/blocks/audio/AudioTranscription.js:117
+#: admin/blocks/shared/tracks/TracksEditor.js:129
+msgid "Source language"
+msgstr ""
+
+#: admin/blocks/blocks/audio/AudioTranscription.js:119
+#: admin/blocks/shared/tracks/TracksEditor.js:131
+msgid "Language tag (en, fr, etc.)"
+msgstr ""
+
+#: admin/blocks/blocks/audio/AudioTranscription.js:144
+#: admin/blocks/shared/tracks/TracksEditor.js:156
+msgid "English"
+msgstr ""
+
+#: admin/blocks/blocks/audio/AudioTranscription.js:160
+#: admin/blocks/shared/tracks/TracksEditor.js:172
+msgid "Close"
+msgstr ""
+
+#: admin/blocks/blocks/audio/AudioTranscription.js:163
+#: admin/blocks/shared/tracks/TracksEditor.js:175
+msgid "Remove track"
+msgstr ""
+
+#: admin/blocks/blocks/audio/AudioTranscription.js:221
+msgid "Add transcription languages"
+msgstr ""
+
+#: admin/blocks/blocks/audio/AudioTranscription.js:232
+#: admin/blocks/shared/tracks/TracksEditor.js:244
+msgid "Open Media Library"
+msgstr ""
+
+#: admin/blocks/blocks/audio/AudioTranscription.js:267
+#: admin/blocks/shared/tracks/TracksEditor.js:279
+msgid "Upload"
+msgstr ""
+
+#: admin/blocks/blocks/audio/HostedAudioPlaceholder.js:58
+#: admin/blocks/blocks/audio/index.js:54
+#: admin/blocks/blocks/audio/index.js:62
+msgid "Presto Audio"
+msgstr ""
+
+#: admin/blocks/blocks/audio/HostedAudioPlaceholder.js:59
+msgid "Upload a audio file, or pick one from your media library."
+msgstr ""
+
+#: admin/blocks/blocks/audio/HostedAudioPlaceholder.js:81
+#: admin/blocks/blocks/hosted/HostedPlaceholder.js:93
+msgid "Make Private"
+msgstr ""
+
+#: admin/blocks/blocks/audio/HostedAudioPlaceholder.js:87
+msgid "This audio is only accessible to those who are logged in."
+msgstr ""
+
+#: admin/blocks/blocks/audio/HostedAudioPlaceholder.js:91
+msgid "This audio is currently accessible to everyone."
+msgstr ""
+
+#: admin/blocks/blocks/audio/HostedAudioPlaceholder.js:115
+#: admin/blocks/blocks/hosted/HostedPlaceholder.js:127
+msgid "Note"
+msgstr ""
+
+#: admin/blocks/blocks/audio/HostedAudioPlaceholder.js:117
+msgid "Private audio uses php to stream your audio. Keep in mind this will use up disk space and bandwidth so it may not be an appropriate choice for some hosts."
+msgstr ""
+
+#: admin/blocks/blocks/audio/index.js:56
+msgid "A audio player wrapper."
+msgstr ""
+
+#: admin/blocks/blocks/audio/index.js:63
+msgid "Presto self-hosted audio block."
+msgstr ""
+
+#: admin/blocks/blocks/audio/index.js:70
+msgid "Presto Private Audio"
+msgstr ""
+
+#: admin/blocks/blocks/audio/index.js:88
+msgid "Private self-hosted audio block."
+msgstr ""
+
+#: admin/blocks/blocks/audio/with-player-edit.js:111
+msgid "Remove this"
+msgstr ""
+
+#: admin/blocks/blocks/bunny/APIPlaceholder.js:42
+#: admin/blocks/blocks/bunny/edit.js:323
+#: admin/settings/pages/Integrations.js:265
+msgid "Bunny.net Video"
+msgstr ""
+
+#: admin/blocks/blocks/bunny/APIPlaceholder.js:43
+msgid "Enter your Bunny.net API key, which can be found on your Bunny CDN Account page."
+msgstr ""
+
+#: admin/blocks/blocks/bunny/APIPlaceholder.js:87
+msgid "Your Bunny.net API Key"
+msgstr ""
+
+#: admin/blocks/blocks/bunny/APIPlaceholder.js:93
+#: admin/ui/Pagination.js:58
+msgid "Next"
+msgstr ""
+
+#: admin/blocks/blocks/bunny/edit.js:219
+msgid "Add/Select Private Video Stream"
+msgstr ""
+
+#: admin/blocks/blocks/bunny/edit.js:220
+msgid "Add/Select Video Stream"
+msgstr ""
+
+#: admin/blocks/blocks/bunny/edit.js:231
+msgid "Add/Select Private Video (Classic)"
+msgstr ""
+
+#: admin/blocks/blocks/bunny/edit.js:232
+msgid "Add/Select Video (Classic)"
+msgstr ""
+
+#: admin/blocks/blocks/bunny/edit.js:244
+msgid "Enable Bunny.net Stream!"
+msgstr ""
+
+#: admin/blocks/blocks/bunny/edit.js:258
+msgid "Reconnect Stream"
+msgstr ""
+
+#: admin/blocks/blocks/bunny/edit.js:259
+msgid "Connect Stream"
+msgstr ""
+
+#: admin/blocks/blocks/bunny/edit.js:269
+msgid "Reconnect Storage (Classic)"
+msgstr ""
+
+#: admin/blocks/blocks/bunny/edit.js:270
+msgid "Connect Storage (Classic)"
+msgstr ""
+
+#: admin/blocks/blocks/bunny/edit.js:277
+msgid "Connection Options"
+msgstr ""
+
+#: admin/blocks/blocks/bunny/edit.js:322
+msgid "Bunny.net Private Video"
+msgstr ""
+
+#: admin/blocks/blocks/bunny/edit.js:358
+msgid "Add or select a Bunny.net video"
+msgstr ""
+
+#: admin/blocks/blocks/bunny/index.js:34
+#: admin/blocks/blocks/bunny/index.js:42
+msgid "Presto Bunny.net Video"
+msgstr ""
+
+#: admin/blocks/blocks/bunny/index.js:36
+msgid "Serve video through Bunny.net CDN."
+msgstr ""
+
+#: admin/blocks/blocks/bunny/index.js:43
+msgid "Serve public video through Bunny.net CDN."
+msgstr ""
+
+#: admin/blocks/blocks/bunny/index.js:51
+msgid "Presto Bunny.net Private Video"
+msgstr ""
+
+#: admin/blocks/blocks/bunny/index.js:66
+msgid "Serve private, secure video through Bunny.net CDN."
+msgstr ""
+
+#: admin/blocks/blocks/bunny/popup/stream/CollectionHeader.js:62
+msgid "Back To Main Folder"
+msgstr ""
+
+#: admin/blocks/blocks/bunny/popup/stream/CollectionHeader.js:67
+msgid "Delete Collection"
+msgstr ""
+
+#: admin/blocks/blocks/bunny/popup/stream/CollectionHeader.js:77
+msgid "Are you sure you want to delete the collection? "
+msgstr ""
+
+#: admin/blocks/blocks/bunny/popup/stream/CollectionHeader.js:83
+msgid "This will also delete all videos inside of the collection."
+msgstr ""
+
+#: admin/blocks/blocks/bunny/popup/stream/CollectionHeader.js:95
+#: admin/settings/pages/parts/Webhooks/Webhook.js:95
+msgid "Delete"
+msgstr ""
+
+#: admin/blocks/blocks/bunny/popup/stream/collections/Collections.js:42
+msgid "Collections"
+msgstr ""
+
+#: admin/blocks/blocks/bunny/popup/stream/collections/CreateCollection.js:48
+msgid "Create Collection"
+msgstr ""
+
+#: admin/blocks/blocks/bunny/popup/stream/collections/CreateCollection.js:62
+msgid "Enter a collection name"
+msgstr ""
+
+#: admin/blocks/blocks/bunny/popup/stream/collections/CreateCollection.js:76
+#: admin/blocks/blocks/playlist-list-item/Placeholder.js:66
+#: admin/blocks/blocks/playlist-list/create.js:28
+#: admin/settings/pages/parts/Webhooks/NewWebhook.js:122
+#: Integrations/BeaverBuilder/ReusableVideoModule/Module.php:136
+#: Integrations/Elementor/ReusableVideoWidget.php:143
+msgid "Create"
+msgstr ""
+
+#: admin/blocks/blocks/bunny/popup/stream/Footer.js:39
+msgid "Please wait, video is encoding..."
+msgstr ""
+
+#: admin/blocks/blocks/bunny/popup/stream/Footer.js:40
+#: admin/blocks/shared/media/MediaPopup.js:325
+msgid "Choose"
+msgstr ""
+
+#: admin/blocks/blocks/bunny/popup/stream/Header.js:26
+msgid "Upload Videos"
+msgstr ""
+
+#: admin/blocks/blocks/bunny/popup/stream/Popup.js:68
+#: admin/blocks/blocks/bunny/StreamMedia.js:28
+msgid "Private Stream Library"
+msgstr ""
+
+#: admin/blocks/blocks/bunny/popup/stream/Popup.js:69
+#: admin/blocks/blocks/bunny/StreamMedia.js:29
+msgid "Public Stream Library"
+msgstr ""
+
+#: admin/blocks/blocks/bunny/popup/stream/Sidebar.js:105
+#: admin/blocks/shared/media/MediaPopup.js:116
+#: admin/blocks/shared/VisibilityEditor.js:46
+#: admin/toolbar/index.js:93
+msgid "Visibility"
+msgstr ""
+
+#: admin/blocks/blocks/bunny/popup/stream/Sidebar.js:113
+#: admin/blocks/shared/media/MediaPopup.js:124
+msgid "Size"
+msgstr ""
+
+#: admin/blocks/blocks/bunny/popup/stream/Sidebar.js:120
+msgid "Length"
+msgstr ""
+
+#: admin/blocks/blocks/bunny/popup/stream/Sidebar.js:127
+#: admin/blocks/shared/media/MediaPopup.js:133
+msgid "Created"
+msgstr ""
+
+#: admin/blocks/blocks/bunny/popup/stream/Sidebar.js:137
+#: admin/settings/components/Integration.js:96
+msgid "Are you sure?"
+msgstr ""
+
+#: admin/blocks/blocks/bunny/popup/stream/Sidebar.js:140
+msgid "Are you sure you want to delete this video?"
+msgstr ""
+
+#: admin/blocks/blocks/bunny/popup/stream/Sidebar.js:155
+msgid "Yes"
+msgstr ""
+
+#: admin/blocks/blocks/bunny/popup/stream/Sidebar.js:169
+#: admin/blocks/shared/media/MediaPopup.js:159
+msgid "Delete video"
+msgstr ""
+
+#: admin/blocks/blocks/bunny/popup/stream/upload/Upload.js:15
+#: admin/blocks/blocks/bunny/popup/stream/upload/Upload.js:28
+#: admin/blocks/blocks/bunny/StorageMedia.js:30
+#: admin/blocks/shared/media/MediaPopup.js:183
+msgid "Uploading"
+msgstr ""
+
+#: admin/blocks/blocks/bunny/popup/stream/upload/Upload.js:38
+msgid "Error"
+msgstr ""
+
+#: admin/blocks/blocks/bunny/popup/stream/upload/Upload.js:45
+msgid "Creating"
+msgstr ""
+
+#: admin/blocks/blocks/bunny/popup/stream/video/Videos.js:57
+msgid "Please wait. Pullzone cache is clearing. This may take a minute or two..."
+msgstr ""
+
+#: admin/blocks/blocks/bunny/popup/stream/video/Videos.js:84
+msgid "Drop video files here to upload"
+msgstr ""
+
+#: admin/blocks/blocks/bunny/popup/stream/video/Videos.js:85
+msgid "or browse for a video"
+msgstr ""
+
+#: admin/blocks/blocks/bunny/popup/stream/video/Videos.js:97
+#: admin/blocks/shared/media/MediaPopup.js:224
+#: admin/blocks/shared/media/MediaPopup.js:293
+msgid "Upload New Video"
+msgstr ""
+
+#: admin/blocks/blocks/bunny/popup/stream/video/Videos.js:125
+#: Services/Shortcodes.php:120
+msgid "Videos"
+msgstr ""
+
+#: admin/blocks/blocks/bunny/StorageMedia.js:47
+msgid "Storing"
+msgstr ""
+
+#: admin/blocks/blocks/bunny/StorageMedia.js:112
+msgid "Bunny.net Private Video Storage"
+msgstr ""
+
+#: admin/blocks/blocks/bunny/StorageMedia.js:113
+msgid "Bunny.net Public Video Storage"
+msgstr ""
+
+#: admin/blocks/blocks/bunny/StorageMedia.js:117
+msgid "Private Video Library"
+msgstr ""
+
+#: admin/blocks/blocks/bunny/StorageMedia.js:118
+msgid "Public Video Library"
+msgstr ""
+
+#: admin/blocks/blocks/bunny/StreamMedia.js:33
+msgid "Private Video Stream"
+msgstr ""
+
+#: admin/blocks/blocks/bunny/StreamMedia.js:34
+msgid "Public Video Stream"
+msgstr ""
+
+#: admin/blocks/blocks/bunny/useStorageConnection.js:28
+#: admin/blocks/blocks/bunny/useStreamConnection.js:28
+msgid "Validating API Key..."
+msgstr ""
+
+#: admin/blocks/blocks/bunny/useStorageConnection.js:61
+msgid "Setting up storage zones. This make take a few minutes..."
+msgstr ""
+
+#: admin/blocks/blocks/bunny/useStorageConnection.js:88
+msgid "Setting up pull zones. This make take a few minutes..."
+msgstr ""
+
+#: admin/blocks/blocks/bunny/useStreamConnection.js:61
+msgid "Setting up public video library. This make take a few moments..."
+msgstr ""
+
+#: admin/blocks/blocks/bunny/useStreamConnection.js:91
+msgid "Setting up private video library. This make take a few moments..."
+msgstr ""
+
+#: admin/blocks/blocks/hosted/edit.js:116
+msgid "Get HLS Streaming and more with Presto Player Pro!"
+msgstr ""
+
+#: admin/blocks/blocks/hosted/edit.js:123
+msgid "Stream HLS links and more with Presto Player Pro."
+msgstr ""
+
+#: admin/blocks/blocks/hosted/edit.js:132
+msgid "Upgrade"
+msgstr ""
+
+#: admin/blocks/blocks/hosted/HostedPlaceholder.js:64
+#: admin/blocks/blocks/hosted/index.js:34
+msgid "Presto Private Video"
+msgstr ""
+
+#: admin/blocks/blocks/hosted/HostedPlaceholder.js:65
+#: admin/blocks/blocks/hosted/index.js:18
+#: admin/blocks/blocks/hosted/index.js:26
+#: Integrations/Elementor/VideoWidget.php:63
+msgid "Presto Video"
+msgstr ""
+
+#: admin/blocks/blocks/hosted/HostedPlaceholder.js:67
+msgid "Upload a video file, or pick one from your media library."
+msgstr ""
+
+#: admin/blocks/blocks/hosted/HostedPlaceholder.js:71
+msgid "Upload a video file, pick one from your media library, or add one with a URL."
+msgstr ""
+
+#: admin/blocks/blocks/hosted/HostedPlaceholder.js:99
+msgid "This video is only accessible to those who are logged in."
+msgstr ""
+
+#: admin/blocks/blocks/hosted/HostedPlaceholder.js:103
+msgid "This video is currently accessible to everyone."
+msgstr ""
+
+#: admin/blocks/blocks/hosted/HostedPlaceholder.js:129
+msgid "Private videos use php to stream your video. Keep in mind this will use up disk space and bandwidth so it may not be an appropriate choice for some hosts."
+msgstr ""
+
+#: admin/blocks/blocks/hosted/index.js:20
+#: admin/blocks/blocks/hosted/index.js:27
+msgid "Presto Self-hosted video block."
+msgstr ""
+
+#: admin/blocks/blocks/hosted/index.js:52
+msgid "Private video self-hosted block."
+msgstr ""
+
+#: admin/blocks/blocks/media-hub/edit.js:73
+#: admin/blocks/blocks/reusable-display/edit.js:176
+#: admin/settings/pages/General.js:219
+msgid "Synced"
+msgstr ""
+
+#: admin/blocks/blocks/media-hub/edit.js:74
+#: admin/settings/pages/General.js:220
+msgid "Not synced"
+msgstr ""
+
+#: admin/blocks/blocks/media-hub/edit.js:99
+msgid "Sync to media hub"
+msgstr ""
+
+#: admin/blocks/blocks/media-hub/edit.js:107
+msgid "Don't sync to media hub"
+msgstr ""
+
+#: admin/blocks/blocks/playlist-list-item/edit.js:31
+#: admin/blocks/blocks/playlist/edit.js:209
+#: admin/settings/app.js:94
+#: admin/settings/pages/General.js:146
+msgid "General"
+msgstr ""
+
+#: admin/blocks/blocks/playlist-list-item/edit.js:40
+#: Services/Translation.php:82
+msgid "Duration"
+msgstr ""
+
+#: admin/blocks/blocks/playlist-list-item/edit.js:59
+msgid "Title..."
+msgstr ""
+
+#: admin/blocks/blocks/playlist-list-item/index.js:18
+#: admin/blocks/blocks/playlist-list-item/index.js:19
+msgid "Playlist Item"
+msgstr ""
+
+#: admin/blocks/blocks/playlist-list-item/Placeholder.js:43
+#: admin/blocks/shared/components/SelectMediaDropdown.js:96
+#: admin/blocks/shared/ProvidersPlaceholder/ProvidersPlaceholder.js:66
+#: admin/settings/app.js:47
+#: admin/settings/components/Group.js:25
+#: admin/settings/pages/parts/EmailExport.js:39
+#: admin/settings/pages/parts/Webhooks/Webhook.js:63
+msgid "Something went wrong"
+msgstr ""
+
+#: admin/blocks/blocks/playlist-list-item/Placeholder.js:75
+msgid "Go Back"
+msgstr ""
+
+#: admin/blocks/blocks/playlist-list/create.js:10
+msgid "Add New Playlist Item"
+msgstr ""
+
+#: admin/blocks/blocks/playlist-list/edit.js:21
+#: admin/blocks/shared/media/MediaPopup.js:268
+#: admin/blocks/shared/media/MediaPopupTemplate.js:22
+msgid "Add Media"
+msgstr ""
+
+#: admin/blocks/blocks/playlist-list/index.js:39
+msgid "Playlist List"
+msgstr ""
+
+#: admin/blocks/blocks/playlist-list/index.js:41
+msgid "Presto Playlist List Block - Holds the Playlist List Items."
+msgstr ""
+
+#: admin/blocks/blocks/playlist-preview/index.js:34
+msgid "Playlist Preview"
+msgstr ""
+
+#: admin/blocks/blocks/playlist-preview/index.js:36
+msgid "Presto Playlist Preview Block - Shows the preview of the playlist item."
+msgstr ""
+
+#: admin/blocks/blocks/playlist/edit.js:137
+msgid "Add a Playlist Item to get started."
+msgstr ""
+
+#: admin/blocks/blocks/playlist/edit.js:141
+msgid "Presto Player Playlist"
+msgstr ""
+
+#: admin/blocks/blocks/playlist/edit.js:171
+msgid "Highlight Color"
+msgstr ""
+
+#: admin/blocks/blocks/playlist/edit.js:190
+msgid "Pass highlight color to player"
+msgstr ""
+
+#: admin/blocks/blocks/playlist/edit.js:191
+msgid "Use the playlist highlight color as player color in case your playlist color is different from your brand."
+msgstr ""
+
+#: admin/blocks/blocks/playlist/edit.js:211
+msgid "Playlist Title"
+msgstr ""
+
+#: admin/blocks/blocks/playlist/edit.js:217
+msgid "Playlist Items Text - Singular"
+msgstr ""
+
+#: admin/blocks/blocks/playlist/edit.js:223
+msgid "Playlist Items Text - Plural"
+msgstr ""
+
+#: admin/blocks/blocks/playlist/edit.js:229
+msgid "Transition Duration (Seconds)"
+msgstr ""
+
+#: admin/blocks/blocks/reusable-display/edit.js:140
+msgid "The selected media item has been deleted or is unavailable."
+msgstr ""
+
+#: admin/blocks/blocks/reusable-display/edit.js:167
+#: admin/blocks/blocks/reusable-display/edit.js:195
+msgid "Edit Original"
+msgstr ""
+
+#: admin/blocks/blocks/reusable-display/edit.js:181
+msgid "This item is synced with the media hub and can be reused across your site."
+msgstr ""
+
+#: admin/blocks/blocks/reusable-display/index.js:17
+#: Integrations/Elementor/ReusableVideoWidget.php:116
+msgid "Media Hub Item"
+msgstr ""
+
+#: admin/blocks/blocks/vimeo/edit.js:94
+#: admin/blocks/blocks/vimeo/index.js:25
+msgid "Presto Vimeo Video"
+msgstr ""
+
+#: admin/blocks/blocks/vimeo/edit.js:95
+msgid "Enter Vimeo Video URL"
+msgstr ""
+
+#: admin/blocks/blocks/vimeo/edit.js:96
+msgid "Vimeo URL"
+msgstr ""
+
+#: admin/blocks/blocks/vimeo/index.js:27
+msgid "A vimeo video wrapped in an awesome player."
+msgstr ""
+
+#: admin/blocks/blocks/youtube/edit.js:94
+#: admin/blocks/blocks/youtube/index.js:26
+msgid "Presto Youtube Video"
+msgstr ""
+
+#: admin/blocks/blocks/youtube/edit.js:95
+msgid "Enter Youtube Video URL"
+msgstr ""
+
+#: admin/blocks/blocks/youtube/edit.js:96
+#: admin/blocks/shared/LinkPlaceholder.js:40
+msgid "Youtube URL"
+msgstr ""
+
+#: admin/blocks/blocks/youtube/index.js:28
+msgid "A youtube video wrapped in an awesome player."
+msgstr ""
+
+#: admin/blocks/plugins/reusable-videos/ShortcodeInput.js:8
+msgid "Copied!"
+msgstr ""
+
+#: admin/blocks/plugins/reusable-videos/ShortcodeInput.js:38
+msgid "Timestamp Shortcode"
+msgstr ""
+
+#: admin/blocks/plugins/reusable-videos/ShortcodeInput.js:43
+msgid "Add convenient links to skip the player to a specific timestamp."
+msgstr ""
+
+#: admin/blocks/plugins/reusable-videos/ShortcodeInput.js:60
+msgid "Copy to clipboard"
+msgstr ""
+
+#: admin/blocks/shared/audio-placeholder.js:32
+#: admin/blocks/shared/placeholder.js:40
+#: Integrations/Elementor/VideoWidget.php:220
+msgid "URL"
+msgstr ""
+
+#: admin/blocks/shared/audio-placeholder.js:33
+msgid "Paste an mp3 URL"
+msgstr ""
+
+#: admin/blocks/shared/audio-placeholder.js:103
+#: admin/blocks/shared/placeholder.js:114
+msgid "To edit this block, you need permission to upload media."
+msgstr ""
+
+#: admin/blocks/shared/audio-placeholder.js:161
+msgid "Audio URL"
+msgstr ""
+
+#: admin/blocks/shared/audio-placeholder.js:182
+msgid "Select or Upload Private Audio"
+msgstr ""
+
+#: admin/blocks/shared/audio-placeholder.js:183
+msgid "Select or Upload Audio"
+msgstr ""
+
+#: admin/blocks/shared/audio-placeholder.js:215
+msgid "Add/Select Private Audio"
+msgstr ""
+
+#: admin/blocks/shared/audio-placeholder.js:216
+msgid "Add/Select Audio"
+msgstr ""
+
+#: admin/blocks/shared/audioPresets/Behavior.js:17
+#: admin/blocks/shared/audioPresets/Edit.js:204
+#: admin/blocks/shared/presets/Behavior.js:17
+#: admin/blocks/shared/presets/Edit.js:217
+msgid "Behavior"
+msgstr ""
+
+#: admin/blocks/shared/audioPresets/Behavior.js:21
+#: admin/blocks/shared/presets/Behavior.js:60
+msgid "Save Play Position"
+msgstr ""
+
+#: admin/blocks/shared/audioPresets/Behavior.js:22
+msgid "Saves the user's play position so when they come back to the page they can continue the audio from where they left off."
+msgstr ""
+
+#: admin/blocks/shared/audioPresets/Behavior.js:34
+#: admin/blocks/shared/presets/Behavior.js:34
+msgid "Show Time Elapsed"
+msgstr ""
+
+#: admin/blocks/shared/audioPresets/Behavior.js:35
+msgid "Show the time elapsed or the time remaining for the audio on the player. By default, the time remaining is shown."
+msgstr ""
+
+#: admin/blocks/shared/audioPresets/Behavior.js:47
+#: admin/blocks/shared/presets/Behavior.js:86
+msgid "Focus Mode"
+msgstr ""
+
+#: admin/blocks/shared/audioPresets/Behavior.js:48
+msgid "Play only when tab is visible and audio is in viewport."
+msgstr ""
+
+#: admin/blocks/shared/audioPresets/Behavior.js:61
+#: admin/blocks/shared/presets/Behavior.js:100
+msgid "Sticky On Scroll"
+msgstr ""
+
+#: admin/blocks/shared/audioPresets/Behavior.js:62
+msgid "Stick audios to the side of the screen when the page is scrolled and the audio is playing."
+msgstr ""
+
+#: admin/blocks/shared/audioPresets/Behavior.js:75
+msgid "On Audio End"
+msgstr ""
+
+#: admin/blocks/shared/audioPresets/Behavior.js:84
+#: admin/blocks/shared/presets/Behavior.js:139
+#: Services/Translation.php:99
+msgid "Loop"
+msgstr ""
+
+#: admin/blocks/shared/audioPresets/Behavior.js:88
+#: admin/blocks/shared/presets/Behavior.js:143
+msgid "Go to start"
+msgstr ""
+
+#: admin/blocks/shared/audioPresets/Controls.js:11
+#: admin/blocks/shared/audioPresets/Edit.js:198
+#: admin/blocks/shared/presets/Controls.js:11
+#: admin/blocks/shared/presets/Edit.js:211
+msgid "Controls"
+msgstr ""
+
+#: admin/blocks/shared/audioPresets/Controls.js:15
+#: admin/blocks/shared/presets/Controls.js:15
+msgid "Large Play Button"
+msgstr ""
+
+#: admin/blocks/shared/audioPresets/Controls.js:16
+#: admin/blocks/shared/presets/Controls.js:16
+msgid "Adds a large play button over the top of the player."
+msgstr ""
+
+#: admin/blocks/shared/audioPresets/Controls.js:28
+#: admin/blocks/shared/presets/Controls.js:28
+msgid "Rewind"
+msgstr ""
+
+#: admin/blocks/shared/audioPresets/Controls.js:29
+#: admin/blocks/shared/audioPresets/Controls.js:55
+#: admin/blocks/shared/presets/Controls.js:29
+#: admin/blocks/shared/presets/Controls.js:55
+msgid "Adds a 10 second rewind button to the player."
+msgstr ""
+
+#: admin/blocks/shared/audioPresets/Controls.js:41
+#: admin/blocks/shared/presets/Controls.js:41
+msgid "Small Play Button"
+msgstr ""
+
+#: admin/blocks/shared/audioPresets/Controls.js:42
+#: admin/blocks/shared/presets/Controls.js:42
+msgid "Adds a small play button to the bottom of the player."
+msgstr ""
+
+#: admin/blocks/shared/audioPresets/Controls.js:54
+#: admin/blocks/shared/presets/Controls.js:54
+msgid "Fast Forward"
+msgstr ""
+
+#: admin/blocks/shared/audioPresets/Controls.js:67
+#: admin/blocks/shared/presets/Controls.js:67
+msgid "Progress Bar"
+msgstr ""
+
+#: admin/blocks/shared/audioPresets/Controls.js:68
+#: admin/blocks/shared/presets/Controls.js:68
+msgid "Shows a seekable progress bar."
+msgstr ""
+
+#: admin/blocks/shared/audioPresets/Controls.js:77
+#: admin/blocks/shared/presets/Controls.js:77
+msgid "Current Time"
+msgstr ""
+
+#: admin/blocks/shared/audioPresets/Controls.js:78
+msgid "Shows the audio timestamp."
+msgstr ""
+
+#: admin/blocks/shared/audioPresets/Controls.js:87
+#: admin/blocks/shared/presets/Controls.js:87
+#: Services/Translation.php:83
+msgid "Volume"
+msgstr ""
+
+#: admin/blocks/shared/audioPresets/Controls.js:88
+#: admin/blocks/shared/presets/Controls.js:88
+msgid "Shows a volume bar."
+msgstr ""
+
+#: admin/blocks/shared/audioPresets/Controls.js:97
+#: admin/blocks/shared/presets/Controls.js:97
+#: Services/Translation.php:96
+msgid "Speed"
+msgstr ""
+
+#: admin/blocks/shared/audioPresets/Controls.js:98
+#: admin/blocks/shared/presets/Controls.js:98
+msgid "Shows playback speed controls."
+msgstr ""
+
+#: admin/blocks/shared/audioPresets/Edit.js:80
+#: admin/blocks/shared/presets/Edit.js:94
+msgid "The preset could not be saved. Please reload the page and try again."
+msgstr ""
+
+#: admin/blocks/shared/audioPresets/Edit.js:124
+#: admin/blocks/shared/presets/Edit.js:138
+msgid "Preset updated!"
+msgstr ""
+
+#: admin/blocks/shared/audioPresets/Edit.js:178
+#: admin/blocks/shared/presets/Edit.js:191
+msgid "Preset created!"
+msgstr ""
+
+#: admin/blocks/shared/audioPresets/Edit.js:189
+#: admin/blocks/shared/presets/Edit.js:202
+#: Models/AudioPreset.php:166
+#: Models/Preset.php:200
+msgid "You must enter a name for the preset."
+msgstr ""
+
+#: admin/blocks/shared/audioPresets/Edit.js:210
+#: admin/blocks/shared/audioPresets/Style.js:18
+#: admin/blocks/shared/presets/CTA.js:271
+#: admin/blocks/shared/presets/Edit.js:223
+#: admin/blocks/shared/presets/Email.js:228
+#: admin/blocks/shared/presets/Style.js:13
+msgid "Style"
+msgstr ""
+
+#: admin/blocks/shared/audioPresets/Edit.js:216
+#: admin/blocks/shared/presets/Edit.js:229
+#: admin/blocks/shared/presets/Email.js:53
+#: admin/settings/pages/Integrations.js:241
+msgid "Email Capture"
+msgstr ""
+
+#: admin/blocks/shared/audioPresets/Edit.js:222
+#: admin/blocks/shared/presets/CTA.js:77
+#: admin/blocks/shared/presets/Edit.js:235
+msgid "Call To Action"
+msgstr ""
+
+#: admin/blocks/shared/audioPresets/Edit.js:228
+#: admin/blocks/shared/presets/ActionBar.js:98
+#: admin/blocks/shared/presets/Edit.js:241
+msgid "Action Bar"
+msgstr ""
+
+#: admin/blocks/shared/audioPresets/Edit.js:245
+msgid "Edit A Audio Preset"
+msgstr ""
+
+#: admin/blocks/shared/audioPresets/Edit.js:246
+msgid "Create A New Audio Preset"
+msgstr ""
+
+#: admin/blocks/shared/audioPresets/Edit.js:256
+#: admin/blocks/shared/presets/Edit.js:286
+msgid "Preset Name"
+msgstr ""
+
+#: admin/blocks/shared/audioPresets/Edit.js:258
+#: admin/blocks/shared/presets/Edit.js:288
+msgid "Enter a preset name..."
+msgstr ""
+
+#: admin/blocks/shared/audioPresets/Edit.js:268
+#: admin/blocks/shared/presets/Edit.js:298
+msgid "Customize"
+msgstr ""
+
+#: admin/blocks/shared/audioPresets/Edit.js:280
+#: admin/blocks/shared/presets/Edit.js:310
+msgid "Skin"
+msgstr ""
+
+#: admin/blocks/shared/audioPresets/Edit.js:285
+#: admin/blocks/shared/presets/Edit.js:317
+msgid "Basic"
+msgstr ""
+
+#: admin/blocks/shared/audioPresets/Edit.js:286
+#: admin/blocks/shared/presets/Edit.js:316
+msgid "Stacked"
+msgstr ""
+
+#: admin/blocks/shared/audioPresets/Edit.js:350
+#: admin/blocks/shared/presets/Edit.js:379
+msgid "Update Preset"
+msgstr ""
+
+#: admin/blocks/shared/audioPresets/Edit.js:351
+#: admin/blocks/shared/presets/Edit.js:380
+msgid "Create Preset"
+msgstr ""
+
+#: admin/blocks/shared/audioPresets/index.js:65
+msgid "Select a audio configuration preset, or add your own."
+msgstr ""
+
+#: admin/blocks/shared/audioPresets/index.js:94
+#: admin/blocks/shared/presets/index.js:93
+msgid "No style presets. You can create a new style by clicking 'Add New Style'."
+msgstr ""
+
+#: admin/blocks/shared/audioPresets/index.js:112
+#: admin/blocks/shared/presets/index.js:111
+msgid "Add New Preset"
+msgstr ""
+
+#: admin/blocks/shared/audioPresets/Preset.js:44
+#: admin/blocks/shared/presets/Preset.js:44
+msgid "Preset trashed."
+msgstr ""
+
+#: admin/blocks/shared/audioPresets/Preset.js:216
+#: admin/blocks/shared/presets/Preset.js:216
+msgid "Trash Preset?"
+msgstr ""
+
+#: admin/blocks/shared/audioPresets/Preset.js:221
+#: admin/blocks/shared/presets/Preset.js:221
+msgid "Warning!"
+msgstr ""
+
+#: admin/blocks/shared/audioPresets/Preset.js:222
+msgid "Any audios assigned to this preset will automatically use the default preset."
+msgstr ""
+
+#: admin/blocks/shared/audioPresets/Preset.js:234
+#: admin/blocks/shared/presets/Preset.js:234
+msgid "Trash"
+msgstr ""
+
+#: admin/blocks/shared/audioPresets/Preview.js:62
+#: admin/blocks/shared/Preview.js:64
+msgid "Enter your email to play."
+msgstr ""
+
+#: admin/blocks/shared/audioPresets/Preview.js:65
+#: admin/blocks/shared/audioPresets/Preview.js:102
+#: admin/blocks/shared/Preview.js:67
+#: admin/blocks/shared/Preview.js:103
+#: Services/Translation.php:65
+msgid "Skip"
+msgstr ""
+
+#: admin/blocks/shared/audioPresets/Preview.js:67
+#: admin/blocks/shared/Preview.js:69
+#: Services/Translation.php:67
+msgid "Email address"
+msgstr ""
+
+#: admin/blocks/shared/audioPresets/Style.js:22
+#: admin/blocks/shared/presets/ActionBar.js:258
+#: admin/blocks/shared/presets/CTA.js:275
+#: admin/blocks/shared/presets/Email.js:232
+#: admin/blocks/shared/presets/Style.js:27
+msgid "Round Corners"
+msgstr ""
+
+#: admin/blocks/shared/audioPresets/Style.js:23
+#: admin/blocks/shared/presets/Style.js:28
+msgid "Player border radius size."
+msgstr ""
+
+#: admin/blocks/shared/audioPresets/Style.js:40
+#: admin/blocks/shared/overlays/components/Overlay.js:159
+#: admin/blocks/shared/presets/Watermark.js:121
+msgid "Background Color"
+msgstr ""
+
+#: admin/blocks/shared/audioPresets/Style.js:54
+msgid "Control Color"
+msgstr ""
+
+#: admin/blocks/shared/BlockInspectorControls.js:38
+msgid "Editing Synced Media"
+msgstr ""
+
+#: admin/blocks/shared/BlockInspectorControls.js:43
+msgid "You are currently editing a synced media hub item that may be reused across your site."
+msgstr ""
+
+#: admin/blocks/shared/BlockInspectorControls.js:57
+#: admin/blocks/shared/Editing.js:13
+msgid "Done Editing"
+msgstr ""
+
+#: admin/blocks/shared/BlockInspectorControls.js:75
+msgid "Overlays"
+msgstr ""
+
+#: admin/blocks/shared/BlockInspectorControls.js:84
+msgid "Video settings"
+msgstr ""
+
+#: admin/blocks/shared/BlockInspectorControls.js:88
+#: Integrations/Elementor/VideoWidget.php:308
+msgid "Video Preset"
+msgstr ""
+
+#: admin/blocks/shared/branding/index.js:56
+msgid "Here you can select the global player branding This will apply to all players on the site."
+msgstr ""
+
+#: admin/blocks/shared/branding/index.js:69
+msgid "Logo Overlay"
+msgstr ""
+
+#: admin/blocks/shared/branding/index.js:74
+msgid "Select logo overlay image"
+msgstr ""
+
+#. translators: %s: poster image URL.
+#: admin/blocks/shared/branding/index.js:103
+#: admin/settings/components/Media.js:57
+msgid "The current logo image url is %s"
+msgstr ""
+
+#: admin/blocks/shared/branding/index.js:106
+#: admin/settings/components/Media.js:60
+msgid "There is no logo image currently selected"
+msgstr ""
+
+#: admin/blocks/shared/branding/index.js:121
+#: admin/settings/pages/General.js:177
+msgid "Logo Max Width"
+msgstr ""
+
+#: admin/blocks/shared/branding/index.js:152
+msgid "Reset Color"
+msgstr ""
+
+#: admin/blocks/shared/branding/index.js:158
+msgid "Save Branding"
+msgstr ""
+
+#: admin/blocks/shared/chapters/components/Chapter.js:50
+msgid "Remove Chapter"
+msgstr ""
+
+#: admin/blocks/shared/chapters/components/Chapter.js:58
+msgid "Add Chapter"
+msgstr ""
+
+#: admin/blocks/shared/components/ColorPopup.js:62
+#: Services/Translation.php:103
+msgid "Reset"
+msgstr ""
+
+#: admin/blocks/shared/components/EntitySearchDropdown.js:36
+#: admin/blocks/shared/components/EntitySearchDropdown.js:68
+msgid "None found."
+msgstr ""
+
+#: admin/blocks/shared/components/EntitySearchDropdown.js:61
+msgid "Add New"
+msgstr ""
+
+#: admin/blocks/shared/components/EntitySearchDropdown.js:103
+msgid "Load More"
+msgstr ""
+
+#: admin/blocks/shared/components/EntitySearchDropdown.js:147
+msgid "Search..."
+msgstr ""
+
+#: admin/blocks/shared/components/ProBadge.js:5
+#: admin/settings/pages/General.js:164
+msgid "Pro"
+msgstr ""
+
+#: admin/blocks/shared/components/SelectMediaDropdown.js:118
+msgid "Create or select media"
+msgstr ""
+
+#: admin/blocks/shared/components/SelectMediaDropdown.js:130
+#: admin/blocks/shared/ProvidersPlaceholder/ProvidersPlaceholder.js:248
+msgid "Choose media"
+msgstr ""
+
+#: admin/blocks/shared/components/UrlSelect.js:75
+msgid "Are you sure you wish to remove this link?"
+msgstr ""
+
+#: admin/blocks/shared/components/UrlSelect.js:166
+msgid "Add Link"
+msgstr ""
+
+#: admin/blocks/shared/LinkPlaceholder.js:26
+msgid "Presto Embedded Video"
+msgstr ""
+
+#: admin/blocks/shared/LinkPlaceholder.js:27
+msgid "Enter video URL"
+msgstr ""
+
+#: admin/blocks/shared/LinkPlaceholder.js:47
+msgid "Add Video"
+msgstr ""
+
+#: admin/blocks/shared/media/MediaPopup.js:187
+msgid "Please don't navigate away from this page."
+msgstr ""
+
+#: admin/blocks/shared/media/MediaPopup.js:300
+msgid "Or drag a file here to upload."
+msgstr ""
+
+#: admin/blocks/shared/overlays/components/DynamicText.js:14
+msgid "This field accepts"
+msgstr ""
+
+#: admin/blocks/shared/overlays/components/DynamicText.js:22
+msgid "Dynamic Data"
+msgstr ""
+
+#: admin/blocks/shared/overlays/components/DynamicText.js:26
+msgid "This field will also accept dynamic values that we will replace with dynamic content: {user.user_login}, {user.user_nicename}, {user.user_email}, {user.user_url},{user.user_registered}, {user.display_name}, {site.url}, {site.name}, {ip_address}"
+msgstr ""
+
+#: admin/blocks/shared/overlays/components/DynamicText.js:35
+msgid "Enter some text."
+msgstr ""
+
+#: admin/blocks/shared/overlays/components/Overlay.js:73
+msgid "Start Time"
+msgstr ""
+
+#: admin/blocks/shared/overlays/components/Overlay.js:86
+msgid "End Time"
+msgstr ""
+
+#: admin/blocks/shared/overlays/components/Overlay.js:107
+#: admin/blocks/shared/presets/CTA.js:199
+#: Integrations/Elementor/VideoWidget.php:160
+#: Integrations/Elementor/VideoWidget.php:181
+msgid "Link"
+msgstr ""
+
+#: admin/blocks/shared/overlays/components/Overlay.js:120
+#: admin/blocks/shared/presets/Watermark.js:84
+msgid "Position"
+msgstr ""
+
+#: admin/blocks/shared/overlays/components/Overlay.js:122
+#: admin/blocks/shared/presets/Watermark.js:86
+msgid "Top Right"
+msgstr ""
+
+#: admin/blocks/shared/overlays/components/Overlay.js:123
+#: admin/blocks/shared/presets/Watermark.js:87
+msgid "Top Left"
+msgstr ""
+
+#: admin/blocks/shared/overlays/components/Overlay.js:140
+#: admin/blocks/shared/presets/Watermark.js:105
+msgid "Text Color"
+msgstr ""
+
+#: admin/blocks/shared/overlays/components/Overlay.js:177
+#: admin/blocks/shared/presets/Watermark.js:136
+msgid "Opacity"
+msgstr ""
+
+#: admin/blocks/shared/overlays/components/Overlay.js:178
+msgid "Opacity percentage of the overlay."
+msgstr ""
+
+#: admin/blocks/shared/overlays/components/Overlay.js:190
+msgid "Remove Overlay"
+msgstr ""
+
+#: admin/blocks/shared/overlays/Edit.js:69
+msgid "Here's a link to click!"
+msgstr ""
+
+#: admin/blocks/shared/overlays/Edit.js:128
+msgid "Manage Video Overlays"
+msgstr ""
+
+#: admin/blocks/shared/overlays/Edit.js:166
+msgid "Add An Overlay"
+msgstr ""
+
+#: admin/blocks/shared/overlays/Edit.js:214
+msgid "Save Overlays"
+msgstr ""
+
+#: admin/blocks/shared/overlays/index.js:38
+msgid "Update Overlays"
+msgstr ""
+
+#: admin/blocks/shared/overlays/index.js:39
+msgid "Add Overlay"
+msgstr ""
+
+#: admin/blocks/shared/placeholder.js:41
+msgid "Paste or type a Youtube, Vimeo or .mp4 video URL"
+msgstr ""
+
+#: admin/blocks/shared/placeholder.js:173
+msgid "Video URL"
+msgstr ""
+
+#: admin/blocks/shared/placeholder.js:194
+msgid "Select or Upload Private Video"
+msgstr ""
+
+#: admin/blocks/shared/placeholder.js:195
+msgid "Select or Upload Video"
+msgstr ""
+
+#: admin/blocks/shared/placeholder.js:228
+msgid "Add/Select Private Video"
+msgstr ""
+
+#: admin/blocks/shared/placeholder.js:229
+#: Integrations/Elementor/VideoWidget.php:202
+msgid "Add/Select Video"
+msgstr ""
+
+#: admin/blocks/shared/presets/ActionBar.js:85
+msgid "Update Youtube Channel Id"
+msgstr ""
+
+#: admin/blocks/shared/presets/ActionBar.js:86
+msgid "Add Youtube Channel Id"
+msgstr ""
+
+#: admin/blocks/shared/presets/ActionBar.js:102
+#: admin/blocks/shared/presets/CTA.js:81
+#: admin/blocks/shared/presets/Email.js:57
+#: admin/blocks/shared/presets/Search.js:52
+#: admin/blocks/shared/presets/Watermark.js:57
+#: admin/settings/pages/General.js:291
+#: admin/settings/pages/Integrations.js:174
+msgid "Enable"
+msgstr ""
+
+#: admin/blocks/shared/presets/ActionBar.js:103
+msgid "Show an action bar below your player while it's playing."
+msgstr ""
+
+#: admin/blocks/shared/presets/ActionBar.js:128
+#: admin/blocks/shared/presets/CTA.js:107
+#: admin/blocks/shared/presets/Email.js:83
+msgid "Display At (Percentage)"
+msgstr ""
+
+#: admin/blocks/shared/presets/ActionBar.js:138
+#: admin/blocks/shared/presets/CTA.js:117
+#: admin/blocks/shared/presets/Email.js:93
+#: Services/Translation.php:100
+msgid "Start"
+msgstr ""
+
+#: admin/blocks/shared/presets/ActionBar.js:142
+#: admin/blocks/shared/presets/CTA.js:121
+#: admin/blocks/shared/presets/Email.js:97
+msgid "50% Watched"
+msgstr ""
+
+#: admin/blocks/shared/presets/ActionBar.js:146
+#: admin/blocks/shared/presets/CTA.js:125
+#: admin/blocks/shared/presets/Email.js:101
+#: Services/Translation.php:101
+msgid "End"
+msgstr ""
+
+#: admin/blocks/shared/presets/ActionBar.js:161
+msgid "Text"
+msgstr ""
+
+#: admin/blocks/shared/presets/ActionBar.js:162
+msgid "Action bar text."
+msgstr ""
+
+#: admin/blocks/shared/presets/ActionBar.js:175
+msgid "Action Bar Background"
+msgstr ""
+
+#: admin/blocks/shared/presets/ActionBar.js:189
+msgid "Button"
+msgstr ""
+
+#: admin/blocks/shared/presets/ActionBar.js:194
+msgid "Button Type"
+msgstr ""
+
+#: admin/blocks/shared/presets/ActionBar.js:199
+msgid "Custom"
+msgstr ""
+
+#: admin/blocks/shared/presets/ActionBar.js:203
+msgid "YouTube Subscribe"
+msgstr ""
+
+#: admin/blocks/shared/presets/ActionBar.js:207
+#: admin/blocks/shared/presets/parts/ChooseProvider.js:18
+msgid "None"
+msgstr ""
+
+#: admin/blocks/shared/presets/ActionBar.js:220
+msgid "Show Count"
+msgstr ""
+
+#: admin/blocks/shared/presets/ActionBar.js:221
+msgid "Show your follower count."
+msgstr ""
+
+#: admin/blocks/shared/presets/ActionBar.js:237
+#: admin/blocks/shared/presets/CTA.js:257
+msgid "Button Text"
+msgstr ""
+
+#: admin/blocks/shared/presets/ActionBar.js:238
+#: admin/blocks/shared/presets/Email.js:183
+msgid "Submit button text"
+msgstr ""
+
+#: admin/blocks/shared/presets/ActionBar.js:245
+msgid "Button Link"
+msgstr ""
+
+#: admin/blocks/shared/presets/ActionBar.js:259
+msgid "Border radius of the button"
+msgstr ""
+
+#: admin/blocks/shared/presets/ActionBar.js:271
+#: admin/blocks/shared/presets/CTA.js:295
+#: admin/blocks/shared/presets/Email.js:192
+msgid "Button Color"
+msgstr ""
+
+#: admin/blocks/shared/presets/ActionBar.js:286
+#: admin/blocks/shared/presets/CTA.js:310
+#: admin/blocks/shared/presets/Email.js:207
+msgid "Button Text Color"
+msgstr ""
+
+#: admin/blocks/shared/presets/Behavior.js:21
+msgid "Auto-Hide Controls"
+msgstr ""
+
+#: admin/blocks/shared/presets/Behavior.js:22
+msgid "Hide video controls automatically after 2 seconds of no mouse movement."
+msgstr ""
+
+#: admin/blocks/shared/presets/Behavior.js:35
+msgid "Show the time elapsed or the time remaining for the video on the player. By default, the time remaining is shown."
+msgstr ""
+
+#: admin/blocks/shared/presets/Behavior.js:61
+msgid "Saves the user's play position so when they come back to the page they can continue the video from where they left off."
+msgstr ""
+
+#: admin/blocks/shared/presets/Behavior.js:73
+msgid "Captions On By Default"
+msgstr ""
+
+#: admin/blocks/shared/presets/Behavior.js:74
+msgid "Toggles if captions should be active by default."
+msgstr ""
+
+#: admin/blocks/shared/presets/Behavior.js:87
+msgid "Play only when tab is visible and video is in viewport."
+msgstr ""
+
+#: admin/blocks/shared/presets/Behavior.js:101
+msgid "Stick videos to the side of the screen when the page is scrolled and the video is playing."
+msgstr ""
+
+#: admin/blocks/shared/presets/Behavior.js:114
+msgid "Choose a position for your sticky player."
+msgstr ""
+
+#: admin/blocks/shared/presets/Behavior.js:130
+msgid "On Video End"
+msgstr ""
+
+#: admin/blocks/shared/presets/Behavior.js:155
+#: Blocks/YouTubeBlock.php:26
+#: Services/VideoPostType.php:486
+msgid "Youtube"
+msgstr ""
+
+#: admin/blocks/shared/presets/Behavior.js:159
+msgid "Hide Youtube UI (Experimental)"
+msgstr ""
+
+#: admin/blocks/shared/presets/Behavior.js:160
+msgid "Hides the Youtube logo and related videos."
+msgstr ""
+
+#: admin/blocks/shared/presets/Behavior.js:172
+msgid "Lazy Load Videos"
+msgstr ""
+
+#: admin/blocks/shared/presets/Behavior.js:173
+msgid "Improves page loading performance by only loading the video when clicked."
+msgstr ""
+
+#: admin/blocks/shared/presets/Controls.js:78
+msgid "Shows the video timestamp."
+msgstr ""
+
+#: admin/blocks/shared/presets/Controls.js:107
+msgid "Picture In Picture (HTML5 only)"
+msgstr ""
+
+#: admin/blocks/shared/presets/Controls.js:108
+msgid "Allows users to dock the player on their screen and watch when using other app on their computer."
+msgstr ""
+
+#: admin/blocks/shared/presets/Controls.js:120
+msgid "Fullscreen"
+msgstr ""
+
+#: admin/blocks/shared/presets/Controls.js:121
+msgid "Adds a button to allow the player to be fullscreen."
+msgstr ""
+
+#: admin/blocks/shared/presets/Controls.js:133
+#: admin/blocks/shared/tracks/TracksEditor.js:85
+#: admin/blocks/shared/tracks/TracksEditor.js:198
+#: Services/Translation.php:92
+#: parts/captions.php:3
+msgid "Captions"
+msgstr ""
+
+#: admin/blocks/shared/presets/Controls.js:134
+msgid "Shows a dedicated caption toggle button."
+msgstr ""
+
+#: admin/blocks/shared/presets/CTA.js:37
+msgid "Want to learn more?"
+msgstr ""
+
+#: admin/blocks/shared/presets/CTA.js:39
+msgid "Click Here"
+msgstr ""
+
+#: admin/blocks/shared/presets/CTA.js:82
+#: admin/blocks/shared/presets/Email.js:58
+msgid "Show an email collection form and message over your player."
+msgstr ""
+
+#: admin/blocks/shared/presets/CTA.js:147
+msgid "You already have an email capture set display at the same time."
+msgstr ""
+
+#: admin/blocks/shared/presets/CTA.js:158
+msgid "Disable Email Capture"
+msgstr ""
+
+#: admin/blocks/shared/presets/CTA.js:166
+msgid "Show Rewatch Button"
+msgstr ""
+
+#: admin/blocks/shared/presets/CTA.js:167
+msgid "Show a rewatch button at the end of the player."
+msgstr ""
+
+#: admin/blocks/shared/presets/CTA.js:182
+#: admin/blocks/shared/presets/Email.js:140
+msgid "Allow Skipping"
+msgstr ""
+
+#: admin/blocks/shared/presets/CTA.js:183
+msgid "Let the user continue watching the player."
+msgstr ""
+
+#: admin/blocks/shared/presets/CTA.js:213
+#: admin/blocks/shared/presets/Email.js:153
+msgid "Headline"
+msgstr ""
+
+#: admin/blocks/shared/presets/CTA.js:214
+#: admin/blocks/shared/presets/Email.js:154
+msgid "The headline for your form."
+msgstr ""
+
+#: admin/blocks/shared/presets/CTA.js:226
+#: admin/blocks/shared/presets/Email.js:166
+msgid "Bottom Text"
+msgstr ""
+
+#: admin/blocks/shared/presets/CTA.js:227
+#: admin/blocks/shared/presets/Email.js:167
+msgid "Text displayed below the form. HTML allowed."
+msgstr ""
+
+#: admin/blocks/shared/presets/CTA.js:242
+msgid "Show Button"
+msgstr ""
+
+#: admin/blocks/shared/presets/CTA.js:243
+msgid "Show a call to action button."
+msgstr ""
+
+#: admin/blocks/shared/presets/CTA.js:260
+msgid "Button text for the Call To Action"
+msgstr ""
+
+#: admin/blocks/shared/presets/CTA.js:276
+#: admin/blocks/shared/presets/Email.js:233
+msgid "Border radius of form elements."
+msgstr ""
+
+#: admin/blocks/shared/presets/CTA.js:326
+msgid "Background Opacity"
+msgstr ""
+
+#: admin/blocks/shared/presets/CTA.js:327
+msgid "Opacity percentage of the cover background."
+msgstr ""
+
+#: admin/blocks/shared/presets/Edit.js:254
+msgid "Dynamic Watermark"
+msgstr ""
+
+#: admin/blocks/shared/presets/Edit.js:260
+#: admin/blocks/shared/presets/Search.js:48
+msgid "Searchable Captions"
+msgstr ""
+
+#: admin/blocks/shared/presets/Edit.js:275
+msgid "Edit A Video Preset"
+msgstr ""
+
+#: admin/blocks/shared/presets/Edit.js:276
+msgid "Create A New Video Preset"
+msgstr ""
+
+#: admin/blocks/shared/presets/Edit.js:314
+msgid "Modern"
+msgstr ""
+
+#: admin/blocks/shared/presets/Edit.js:315
+msgid "Business"
+msgstr ""
+
+#: admin/blocks/shared/presets/Email.js:122
+msgid "You already have a Call To Action set display at the same time."
+msgstr ""
+
+#: admin/blocks/shared/presets/Email.js:133
+msgid "Disable Call To Action"
+msgstr ""
+
+#: admin/blocks/shared/presets/Email.js:141
+msgid "Let the viewer skip"
+msgstr ""
+
+#: admin/blocks/shared/presets/Email.js:182
+msgid "Play Button Text"
+msgstr ""
+
+#: admin/blocks/shared/presets/Email.js:220
+msgid "Integrate"
+msgstr ""
+
+#: admin/blocks/shared/presets/index.js:64
+msgid "Select a video configuration preset, or add your own."
+msgstr ""
+
+#: admin/blocks/shared/presets/parts/ActiveCampaignConfig.js:14
+#: admin/blocks/shared/presets/parts/ActiveCampaignConfig.js:99
+#: admin/blocks/shared/presets/parts/FluentCRMConfig.js:14
+#: admin/blocks/shared/presets/parts/FluentCRMConfig.js:99
+msgid "Choose a list"
+msgstr ""
+
+#: admin/blocks/shared/presets/parts/ActiveCampaignConfig.js:17
+#: admin/blocks/shared/presets/parts/ActiveCampaignConfig.js:112
+#: admin/blocks/shared/presets/parts/FluentCRMConfig.js:17
+#: admin/blocks/shared/presets/parts/FluentCRMConfig.js:112
+msgid "Choose a tag"
+msgstr ""
+
+#: admin/blocks/shared/presets/parts/ActiveCampaignConfig.js:35
+msgid "Default list"
+msgstr ""
+
+#: admin/blocks/shared/presets/parts/ChooseProvider.js:56
+#: admin/settings/pages/parts/Webhooks/index.js:31
+msgid "Webhooks"
+msgstr ""
+
+#: admin/blocks/shared/presets/parts/ChooseProvider.js:76
+msgid "Connect a provider"
+msgstr ""
+
+#: admin/blocks/shared/presets/parts/ChooseProvider.js:152
+msgid "Choose an email provider"
+msgstr ""
+
+#: admin/blocks/shared/presets/parts/MailchimpConfig.js:12
+#: admin/blocks/shared/presets/parts/MailchimpConfig.js:69
+msgid "Choose an audience"
+msgstr ""
+
+#: admin/blocks/shared/presets/parts/MailchimpConfig.js:75
+#: Services/VideoPostType.php:314
+msgid "Tag"
+msgstr ""
+
+#: admin/blocks/shared/presets/parts/MailchimpConfig.js:78
+msgid "Give this contact an optional tag when they are added to the list."
+msgstr ""
+
+#: admin/blocks/shared/presets/parts/MailerLiteConfig.js:12
+#: admin/blocks/shared/presets/parts/MailerLiteConfig.js:64
+msgid "Choose a group"
+msgstr ""
+
+#: admin/blocks/shared/presets/parts/WebhooksConfig.js:12
+#: admin/blocks/shared/presets/parts/WebhooksConfig.js:64
+msgid "Choose a webhook"
+msgstr ""
+
+#: admin/blocks/shared/presets/parts/YoutubeChannelId.js:68
+msgid "Youtube Channel ID"
+msgstr ""
+
+#: admin/blocks/shared/presets/parts/YoutubeChannelId.js:72
+#: admin/settings/pages/Integrations.js:229
+msgid "Find my channel id"
+msgstr ""
+
+#: admin/blocks/shared/presets/parts/YoutubeChannelId.js:90
+msgid "Save"
+msgstr ""
+
+#: admin/blocks/shared/presets/Preset.js:222
+msgid "Any videos assigned to this preset will automatically use the default preset."
+msgstr ""
+
+#: admin/blocks/shared/presets/Search.js:53
+msgid "Show a search bar on your player which enables searching within the subtitles of the video."
+msgstr ""
+
+#: admin/blocks/shared/presets/Search.js:69
+msgid "Placeholder Text"
+msgstr ""
+
+#: admin/blocks/shared/presets/Search.js:83
+msgid "Advanced Settings"
+msgstr ""
+
+#: admin/blocks/shared/presets/Search.js:91
+msgid "Minimum Matching Character Length"
+msgstr ""
+
+#: admin/blocks/shared/presets/Search.js:95
+msgid "Only the matches whose length exceeds this value will be returned. (For instance, if you want to ignore single character matches in the result, set it to 2"
+msgstr ""
+
+#: admin/blocks/shared/presets/Search.js:109
+msgid "Threshold"
+msgstr ""
+
+#: admin/blocks/shared/presets/Search.js:110
+msgid "At what point does the match algorithm give up. A threshold of 0.0 requires a perfect match (of both letters and location), a threshold of 1.0 would match anything."
+msgstr ""
+
+#: admin/blocks/shared/presets/Style.js:17
+msgid "Hide Logo"
+msgstr ""
+
+#: admin/blocks/shared/presets/Style.js:18
+msgid "Hides the logo on this video."
+msgstr ""
+
+#: admin/blocks/shared/presets/Style.js:44
+msgid "Caption Style"
+msgstr ""
+
+#: admin/blocks/shared/presets/Style.js:48
+#: Seeds/AudioPresetSeeder.php:35
+#: Seeds/PresetSeeder.php:36
+#: Services/Translation.php:14
+msgid "Default"
+msgstr ""
+
+#: admin/blocks/shared/presets/Style.js:49
+msgid "Full"
+msgstr ""
+
+#: admin/blocks/shared/presets/Style.js:58
+msgid "Caption Background"
+msgstr ""
+
+#: admin/blocks/shared/presets/Watermark.js:24
+msgid "Enter your watermark text."
+msgstr ""
+
+#: admin/blocks/shared/presets/Watermark.js:53
+msgid "Dynamic Watermark Text"
+msgstr ""
+
+#: admin/blocks/shared/presets/Watermark.js:58
+msgid "Add a simulated dynamic watermark over your video."
+msgstr ""
+
+#: admin/blocks/shared/presets/Watermark.js:89
+msgid "Change Every 10 Seconds"
+msgstr ""
+
+#: admin/blocks/shared/presets/Watermark.js:137
+msgid "Opacity percentage of the watermark."
+msgstr ""
+
+#: admin/blocks/shared/ProvidersPlaceholder/components/Separator.js:23
+msgid "or"
+msgstr ""
+
+#: admin/blocks/shared/ProvidersPlaceholder/ProvidersPlaceholder.js:128
+#: Integrations/BeaverBuilder/ReusableVideoModule/Module.php:16
+#: Integrations/BeaverBuilder/ReusableVideoModule/Module.php:17
+#: Services/Menu.php:17
+#: Services/Menu.php:18
+msgid "Presto Player"
+msgstr ""
+
+#: admin/blocks/shared/ProvidersPlaceholder/ProvidersPlaceholder.js:139
+msgid "Choose a video type to get started."
+msgstr ""
+
+#: admin/blocks/shared/ProvidersPlaceholder/ProvidersPlaceholder.js:165
+#: Integrations/Elementor/VideoWidget.php:139
+#: Services/Shortcodes.php:121
+msgid "Video"
+msgstr ""
+
+#: admin/blocks/shared/ProvidersPlaceholder/ProvidersPlaceholder.js:173
+#: admin/blocks/shared/ProvidersPlaceholder/ProvidersPlaceholder.js:204
+msgid "Bunny.net"
+msgstr ""
+
+#: admin/blocks/shared/ProvidersPlaceholder/ProvidersPlaceholder.js:181
+#: admin/settings/pages/Integrations.js:206
+#: Integrations/Elementor/VideoWidget.php:150
+msgid "YouTube"
+msgstr ""
+
+#: admin/blocks/shared/ProvidersPlaceholder/ProvidersPlaceholder.js:188
+#: Blocks/VimeoBlock.php:23
+#: Integrations/Elementor/VideoWidget.php:151
+#: Services/VideoPostType.php:485
+msgid "Vimeo"
+msgstr ""
+
+#: admin/blocks/shared/ProvidersPlaceholder/ProvidersPlaceholder.js:195
+#: Blocks/AudioBlock.php:25
+#: Services/VideoPostType.php:484
+msgid "Audio"
+msgstr ""
+
+#: admin/blocks/shared/ProvidersPlaceholder/ProvidersPlaceholder.js:235
+msgid "Select media"
+msgstr ""
+
+#: admin/blocks/shared/settings/index.js:41
+msgid "Note: Autoplaying videos may cause usability issues for some visitors."
+msgstr ""
+
+#: admin/blocks/shared/settings/index.js:82
+msgid "Muted Autoplay Preview"
+msgstr ""
+
+#: admin/blocks/shared/settings/index.js:100
+msgid "Shows a muted preview of the video."
+msgstr ""
+
+#: admin/blocks/shared/settings/index.js:105
+msgid "Muted Preview Captions"
+msgstr ""
+
+#: admin/blocks/shared/settings/index.js:116
+msgid "Play captions during muted autoplay"
+msgstr ""
+
+#: admin/blocks/shared/settings/index.js:126
+msgid "Muted Preview Overlay"
+msgstr ""
+
+#: admin/blocks/shared/settings/index.js:144
+msgid "Show an image over the top of the video either before or after the video."
+msgstr ""
+
+#: admin/blocks/shared/settings/index.js:176
+#: Integrations/Elementor/VideoWidget.php:289
+msgid "Play inline"
+msgstr ""
+
+#: admin/blocks/shared/settings/index.js:181
+msgid "On mobile browsers, play the video on the page instead of opening it up fullscreen."
+msgstr ""
+
+#: admin/blocks/shared/settings/index.js:207
+msgid "A poster image is recommended for this setting."
+msgstr ""
+
+#: admin/blocks/shared/settings/index.js:215
+msgid "Video Playback Speed"
+msgstr ""
+
+#: admin/blocks/shared/settings/MutedPreviewOptions.js:51
+msgid "Overlay Image"
+msgstr ""
+
+#: admin/blocks/shared/settings/MutedPreviewOptions.js:54
+msgid "Select overlay image"
+msgstr ""
+
+#: admin/blocks/shared/settings/MutedPreviewOptions.js:72
+msgid "The current overlay image url is %s"
+msgstr ""
+
+#: admin/blocks/shared/settings/MutedPreviewOptions.js:75
+msgid "There is no overlay image currently selected"
+msgstr ""
+
+#: admin/blocks/shared/settings/MutedPreviewOptions.js:108
+msgid "Max Width (%)"
+msgstr ""
+
+#: admin/blocks/shared/tracks/TracksEditor.js:54
+msgid "Captions are .vtt files that help make your content more accesible to a wider range of users."
+msgstr ""
+
+#: admin/blocks/shared/tracks/TracksEditor.js:102
+msgid "Edit caption track"
+msgstr ""
+
+#: admin/blocks/shared/tracks/TracksEditor.js:233
+msgid "Add caption languages"
+msgstr ""
+
+#: admin/blocks/shared/VisibilityEditor.js:61
+msgid "Set Visibility"
+msgstr ""
+
+#: admin/blocks/shared/VisibilityEditor.js:64
+msgid "Anyone with access to this page"
+msgstr ""
+
+#: admin/blocks/shared/VisibilityEditor.js:67
+msgid "Must be logged in"
+msgstr ""
+
+#: admin/integrations/divi/fields/VideoSelector/VideoSelector.jsx:208
+#: Integrations/Elementor/VideoWidget.php:245
+msgid "Video Options"
+msgstr ""
+
+#: admin/integrations/divi/fields/VideoSelector/VideoSelector.jsx:210
+msgid "Edit Video"
+msgstr ""
+
+#: admin/integrations/divi/fields/VideoSelector/VideoSelector.jsx:214
+msgid "New Video"
+msgstr ""
+
+#: admin/integrations/divi/fields/VideoSelector/VideoSelector.jsx:216
+msgid "Create Video"
+msgstr ""
+
+#: admin/integrations/divi/modules/PrestoPlayer/PrestoPlayer.jsx:32
+msgid "Please select media."
+msgstr ""
+
+#: admin/settings/app.js:41
+#: admin/settings/components/Group.js:19
+msgid "Settings Updated"
+msgstr ""
+
+#: admin/settings/app.js:103
+#: admin/settings/pages/Integrations.js:158
+msgid "Integrations"
+msgstr ""
+
+#: admin/settings/app.js:112
+#: admin/settings/pages/Performance.js:26
+#: admin/settings/pages/Performance.js:30
+msgid "Performance"
+msgstr ""
+
+#: admin/settings/app.js:118
+#: admin/settings/components/Group.js:55
+msgid "Update Settings"
+msgstr ""
+
+#: admin/settings/components/Integration.js:37
+#: admin/settings/pages/parts/integration/ActiveCampaign.js:32
+#: admin/settings/pages/parts/integration/Mailchimp.js:37
+#: admin/settings/pages/parts/integration/MailerLite.js:37
+msgid "Connected"
+msgstr ""
+
+#: admin/settings/components/Integration.js:41
+msgid "Not Connected"
+msgstr ""
+
+#: admin/settings/components/Integration.js:68
+msgid "Connect"
+msgstr ""
+
+#: admin/settings/components/Integration.js:84
+#: admin/settings/components/Integration.js:114
+msgid "Disconnect"
+msgstr ""
+
+#: admin/settings/components/Integration.js:101
+msgid "Are you sure you want to disconnect this integration?"
+msgstr ""
+
+#: admin/settings/components/ToggleControl.js:53
+msgid "Okay"
+msgstr ""
+
+#: admin/settings/entities.js:9
+#: admin/settings/pages/General.js:316
+msgid "Presets"
+msgstr ""
+
+#: admin/settings/entities.js:16
+msgid "Audio Presets"
+msgstr ""
+
+#: admin/settings/entities.js:23
+msgid "Webhook"
+msgstr ""
+
+#: admin/settings/pages/General.js:34
+#: admin/settings/pages/Integrations.js:69
+msgid "Pro Feature"
+msgstr ""
+
+#: admin/settings/pages/General.js:35
+#: admin/settings/pages/Integrations.js:70
+msgid "Unlock Presto Player Pro"
+msgstr ""
+
+#: admin/settings/pages/General.js:36
+#: admin/settings/pages/Integrations.js:71
+msgid "Get this feature and more with the Pro version of Presto Player!"
+msgstr ""
+
+#: admin/settings/pages/General.js:147
+msgid "Branding, analytics and uninstall data."
+msgstr ""
+
+#: admin/settings/pages/General.js:153
+msgid "Branding"
+msgstr ""
+
+#: admin/settings/pages/General.js:154
+msgid "Global player branding options"
+msgstr ""
+
+#: admin/settings/pages/General.js:161
+msgid "Logo"
+msgstr ""
+
+#: admin/settings/pages/General.js:192
+#: Services/VideoPostType.php:335
+msgid "Media Hub"
+msgstr ""
+
+#: admin/settings/pages/General.js:193
+msgid "Manage the Media Hub settings."
+msgstr ""
+
+#: admin/settings/pages/General.js:196
+msgid "Default Sync Behavior"
+msgstr ""
+
+#: admin/settings/pages/General.js:197
+msgid "Choose the default sync behavior of Presto Player blocks with the Media Hub."
+msgstr ""
+
+#: admin/settings/pages/General.js:248
+msgid "Sync blocks to media hub."
+msgstr ""
+
+#: admin/settings/pages/General.js:259
+msgid "Don't sync blocks to media hub."
+msgstr ""
+
+#: admin/settings/pages/General.js:267
+msgid "Instant Video Page Width"
+msgstr ""
+
+#: admin/settings/pages/General.js:273
+msgid "Customize the video player width on the instant video page."
+msgstr ""
+
+#: admin/settings/pages/General.js:283
+#: admin/settings/pages/Integrations.js:166
+msgid "Analytics settings for media plays, watch times and more."
+msgstr ""
+
+#: admin/settings/pages/General.js:292
+msgid "Enable view analytics for your media."
+msgstr ""
+
+#: admin/settings/pages/General.js:299
+msgid "Auto-Purge Data (recommended)"
+msgstr ""
+
+#: admin/settings/pages/General.js:300
+msgid "Automatically purge data older than 90 days."
+msgstr ""
+
+#: admin/settings/pages/General.js:318
+msgid "Media presets settings."
+msgstr ""
+
+#: admin/settings/pages/General.js:324
+msgid "Select default preset for video."
+msgstr ""
+
+#: admin/settings/pages/General.js:344
+msgid "Select default preset for audio."
+msgstr ""
+
+#: admin/settings/pages/General.js:362
+msgid "Custom CSS"
+msgstr ""
+
+#: admin/settings/pages/General.js:363
+msgid "Quickly add custom css to the player web component."
+msgstr ""
+
+#: admin/settings/pages/General.js:376
+msgid "Uninstall Options"
+msgstr ""
+
+#: admin/settings/pages/General.js:377
+msgid "Options to remove data on uninstall."
+msgstr ""
+
+#: admin/settings/pages/General.js:383
+msgid "Remove data on uninstall"
+msgstr ""
+
+#: admin/settings/pages/General.js:384
+msgid "This removes all data on uninstall."
+msgstr ""
+
+#: admin/settings/pages/General.js:390
+msgid "Caution: Data Loss. Are you sure you want to remove all the data from this plugin? This is irreversible!"
+msgstr ""
+
+#: admin/settings/pages/Integrations.js:98
+msgid "Bunny.net Settings"
+msgstr ""
+
+#: admin/settings/pages/Integrations.js:99
+msgid "Modify bunny.net settings."
+msgstr ""
+
+#: admin/settings/pages/Integrations.js:104
+msgid "Initial Quality Level"
+msgstr ""
+
+#: admin/settings/pages/Integrations.js:105
+msgid "You can set the default quality start level for all streams (i.e. 240, 360, 480, 720, 1080, etc). Set this lower to prevent initial buffering if your users have slow connections. Set this higher to start with a higher quality stream."
+msgstr ""
+
+#: admin/settings/pages/Integrations.js:120
+msgid "Disable Classic Bunny.net Storage"
+msgstr ""
+
+#: admin/settings/pages/Integrations.js:121
+msgid "This will disable Bunny.net classic storage in your block UI."
+msgstr ""
+
+#: admin/settings/pages/Integrations.js:136
+msgid "Edit Bunny.net Settings"
+msgstr ""
+
+#: admin/settings/pages/Integrations.js:137
+msgid "Edit Bunny.net connection settings. Only edit this if you know what you're doing."
+msgstr ""
+
+#: admin/settings/pages/Integrations.js:159
+msgid "Third party integrations and connections."
+msgstr ""
+
+#: admin/settings/pages/Integrations.js:165
+msgid "Google Analytics"
+msgstr ""
+
+#: admin/settings/pages/Integrations.js:175
+msgid "Send analytics events to your Google Analytics account."
+msgstr ""
+
+#: admin/settings/pages/Integrations.js:185
+msgid "Use existing on-page tag?"
+msgstr ""
+
+#: admin/settings/pages/Integrations.js:186
+msgid "Should we use an existing google analytics (v4) tag? If not, we'll output one for you."
+msgstr ""
+
+#: admin/settings/pages/Integrations.js:195
+msgid "Measurement ID"
+msgstr ""
+
+#: admin/settings/pages/Integrations.js:196
+msgid "Enter a Google Analytics Measurement ID, which can be found on your analytics admin page."
+msgstr ""
+
+#: admin/settings/pages/Integrations.js:207
+msgid "Settings for YouTube videos."
+msgstr ""
+
+#: admin/settings/pages/Integrations.js:211
+msgid "Privacy-Enhanced Mode"
+msgstr ""
+
+#: admin/settings/pages/Integrations.js:212
+msgid "Embed YouTube videos without using cookies that track viewing behaviour."
+msgstr ""
+
+#: admin/settings/pages/Integrations.js:221
+msgid "Channel ID"
+msgstr ""
+
+#: admin/settings/pages/Integrations.js:224
+msgid "Enter the ID of your channel to enable Youtube Subscribe button functionality."
+msgstr ""
+
+#: admin/settings/pages/Integrations.js:242
+msgid "Integrate Presto Player with an email provider for email capture."
+msgstr ""
+
+#: admin/settings/pages/Integrations.js:266
+msgid "To get started with Bunny.net, add a Bunny.net video to your page."
+msgstr ""
+
+#: admin/settings/pages/parts/BunnyClassic/index.js:29
+msgid "Bunny.net Storage (Classic)"
+msgstr ""
+
+#: admin/settings/pages/parts/BunnyClassic/index.js:32
+msgid "Note: To Change your API key, please click \"Reconnect\" from a bunny block."
+msgstr ""
+
+#: admin/settings/pages/parts/BunnyClassic/index.js:39
+msgid "Public ID"
+msgstr ""
+
+#: admin/settings/pages/parts/BunnyClassic/index.js:40
+msgid "The ID of the public pull zone to use."
+msgstr ""
+
+#: admin/settings/pages/parts/BunnyClassic/index.js:46
+msgid "Public Host Name"
+msgstr ""
+
+#: admin/settings/pages/parts/BunnyClassic/index.js:47
+msgid "The hostname to use for this pullzone."
+msgstr ""
+
+#: admin/settings/pages/parts/BunnyClassic/index.js:53
+msgid "Private ID"
+msgstr ""
+
+#: admin/settings/pages/parts/BunnyClassic/index.js:54
+msgid "The ID of the private pull zone to use."
+msgstr ""
+
+#: admin/settings/pages/parts/BunnyClassic/index.js:60
+msgid "Private Host Name"
+msgstr ""
+
+#: admin/settings/pages/parts/BunnyClassic/index.js:61
+msgid "The hostname to use for the private pullzone."
+msgstr ""
+
+#: admin/settings/pages/parts/BunnyClassic/index.js:70
+msgid "Private Url Token Authentication Key"
+msgstr ""
+
+#: admin/settings/pages/parts/BunnyClassic/index.js:71
+msgid "Update the security token used to sign private urls."
+msgstr ""
+
+#: admin/settings/pages/parts/BunnyStream/index.js:18
+msgid "Bunny.net Stream"
+msgstr ""
+
+#: admin/settings/pages/parts/BunnyStream/PrivateStream.js:28
+msgid "Private Stream Library ID"
+msgstr ""
+
+#: admin/settings/pages/parts/BunnyStream/PrivateStream.js:29
+#: admin/settings/pages/parts/BunnyStream/PublicStream.js:25
+msgid "The ID of the video library to use."
+msgstr ""
+
+#: admin/settings/pages/parts/BunnyStream/PrivateStream.js:35
+msgid "Private Stream Library API Key"
+msgstr ""
+
+#: admin/settings/pages/parts/BunnyStream/PrivateStream.js:36
+#: admin/settings/pages/parts/BunnyStream/PublicStream.js:32
+msgid "The API key for the above video library for read/write access."
+msgstr ""
+
+#: admin/settings/pages/parts/BunnyStream/PrivateStream.js:47
+msgid "Private Stream CDN Hostname"
+msgstr ""
+
+#: admin/settings/pages/parts/BunnyStream/PrivateStream.js:48
+#: admin/settings/pages/parts/BunnyStream/PublicStream.js:44
+msgid "The public cdn hostname for the video library."
+msgstr ""
+
+#: admin/settings/pages/parts/BunnyStream/PrivateStream.js:57
+msgid "Private Stream Token Authentication Key"
+msgstr ""
+
+#: admin/settings/pages/parts/BunnyStream/PrivateStream.js:58
+msgid "The token authentication key used to sign private urls."
+msgstr ""
+
+#: admin/settings/pages/parts/BunnyStream/PublicStream.js:24
+msgid "Public Stream Library ID"
+msgstr ""
+
+#: admin/settings/pages/parts/BunnyStream/PublicStream.js:31
+msgid "Public Stream Library API Key"
+msgstr ""
+
+#: admin/settings/pages/parts/BunnyStream/PublicStream.js:43
+msgid "Public Stream CDN Hostname"
+msgstr ""
+
+#: admin/settings/pages/parts/EmailExport.js:60
+msgid "Other"
+msgstr ""
+
+#: admin/settings/pages/parts/EmailExport.js:65
+msgid "Manual Export"
+msgstr ""
+
+#: admin/settings/pages/parts/EmailExport.js:67
+msgid "Using a service not listed here? You can export contacts and manually upload them to a service."
+msgstr ""
+
+#: admin/settings/pages/parts/EmailExport.js:90
+msgid "Download CSV File"
+msgstr ""
+
+#: admin/settings/pages/parts/integration/ActiveCampaign.js:41
+#: admin/settings/pages/parts/integration/Mailchimp.js:46
+#: admin/settings/pages/parts/integration/MailerLite.js:46
+msgid "Disconnected"
+msgstr ""
+
+#: admin/settings/pages/parts/integration/ActiveCampaign.js:49
+msgid "ActiveCampaign"
+msgstr ""
+
+#: admin/settings/pages/parts/integration/ActiveCampaign.js:80
+msgid "Your ActiveCampaign Url"
+msgstr ""
+
+#: admin/settings/pages/parts/integration/ActiveCampaign.js:82
+#: admin/settings/pages/parts/integration/ActiveCampaign.js:91
+msgid "You can find this on your Settings > Developer page."
+msgstr ""
+
+#: admin/settings/pages/parts/integration/ActiveCampaign.js:90
+msgid "Your ActiveCampaign API key"
+msgstr ""
+
+#: admin/settings/pages/parts/integration/FluentCRM.js:21
+msgid "Installed and connected"
+msgstr ""
+
+#: admin/settings/pages/parts/integration/FluentCRM.js:30
+#: Models/LicensedProduct.php:137
+msgid "Deactivated"
+msgstr ""
+
+#: admin/settings/pages/parts/integration/FluentCRM.js:38
+msgid "FluentCRM"
+msgstr ""
+
+#: admin/settings/pages/parts/integration/FluentCRM.js:42
+msgid "Install FluentCRM Plugin"
+msgstr ""
+
+#: admin/settings/pages/parts/integration/FluentCRM.js:43
+msgid "Deactivate FluentCRM Plugin"
+msgstr ""
+
+#: admin/settings/pages/parts/integration/FluentCRM.js:67
+msgid "Installed and connected!"
+msgstr ""
+
+#: admin/settings/pages/parts/integration/Mailchimp.js:53
+msgid "Mailchimp"
+msgstr ""
+
+#: admin/settings/pages/parts/integration/Mailchimp.js:85
+msgid "Your Mailchimp API key"
+msgstr ""
+
+#: admin/settings/pages/parts/integration/Mailchimp.js:88
+msgid "You can create a new key on your mailchimp account page."
+msgstr ""
+
+#: admin/settings/pages/parts/integration/Mailchimp.js:93
+#: admin/settings/pages/parts/integration/MailerLite.js:94
+msgid "Get My API Key"
+msgstr ""
+
+#: admin/settings/pages/parts/integration/MailerLite.js:54
+msgid "Mailerlite"
+msgstr ""
+
+#: admin/settings/pages/parts/integration/MailerLite.js:86
+msgid "Your MailerLite API key"
+msgstr ""
+
+#: admin/settings/pages/parts/integration/MailerLite.js:89
+msgid "You can create a new key on your MailerLite account page."
+msgstr ""
+
+#: admin/settings/pages/parts/integration/withIntegration.js:33
+#: admin/settings/util.js:24
+msgid "Success"
+msgstr ""
+
+#: admin/settings/pages/parts/Webhooks/Headers.js:44
+msgid "Header Name"
+msgstr ""
+
+#: admin/settings/pages/parts/Webhooks/Headers.js:49
+msgid "New Value"
+msgstr ""
+
+#: admin/settings/pages/parts/Webhooks/Headers.js:66
+msgid "Add Header"
+msgstr ""
+
+#: admin/settings/pages/parts/Webhooks/index.js:34
+msgid "%d connected"
+msgstr ""
+
+#: admin/settings/pages/parts/Webhooks/index.js:55
+msgid "Create New WebHook"
+msgstr ""
+
+#: admin/settings/pages/parts/Webhooks/NewWebhook.js:42
+msgid "Webhook updated"
+msgstr ""
+
+#: admin/settings/pages/parts/Webhooks/NewWebhook.js:43
+msgid "Webhook created."
+msgstr ""
+
+#: admin/settings/pages/parts/Webhooks/NewWebhook.js:52
+msgid "Something went wrong."
+msgstr ""
+
+#: admin/settings/pages/parts/Webhooks/NewWebhook.js:64
+msgid "Edit Webhook"
+msgstr ""
+
+#: admin/settings/pages/parts/Webhooks/NewWebhook.js:65
+msgid "Add A Webhook"
+msgstr ""
+
+#: admin/settings/pages/parts/Webhooks/NewWebhook.js:73
+msgid "Webhook feed name"
+msgstr ""
+
+#: admin/settings/pages/parts/Webhooks/NewWebhook.js:81
+msgid "Request URL"
+msgstr ""
+
+#: admin/settings/pages/parts/Webhooks/NewWebhook.js:82
+msgid "Webhook URL"
+msgstr ""
+
+#: admin/settings/pages/parts/Webhooks/NewWebhook.js:90
+msgid "Request Method"
+msgstr ""
+
+#: admin/settings/pages/parts/Webhooks/NewWebhook.js:102
+msgid "Email Name"
+msgstr ""
+
+#: admin/settings/pages/parts/Webhooks/NewWebhook.js:103
+msgid "The name (key) of the email sent."
+msgstr ""
+
+#: admin/settings/pages/parts/Webhooks/NewWebhook.js:111
+msgid "Headers"
+msgstr ""
+
+#: admin/settings/pages/parts/Webhooks/NewWebhook.js:121
+msgid "Update"
+msgstr ""
+
+#: admin/settings/pages/parts/Webhooks/Webhook.js:47
+msgid "Are you sure you want to delete this webhook?"
+msgstr ""
+
+#: admin/settings/pages/parts/Webhooks/Webhook.js:57
+msgid "Webhook deleted."
+msgstr ""
+
+#: admin/settings/pages/parts/Webhooks/Webhook.js:78
+msgid "Untitled webhook"
+msgstr ""
+
+#: admin/settings/pages/Performance.js:27
+msgid "Player performance preferences."
+msgstr ""
+
+#: admin/settings/pages/Performance.js:31
+msgid "Performance options for player loading."
+msgstr ""
+
+#: admin/settings/pages/Performance.js:39
+msgid "Dynamically Load JavaScript"
+msgstr ""
+
+#: admin/settings/pages/Performance.js:40
+msgid "Dynamically load javascript modules on the page which can significantly reduce javascript size and increase performance."
+msgstr ""
+
+#: admin/settings/pages/Performance.js:59
+msgid "Please Note"
+msgstr ""
+
+#: admin/settings/pages/Performance.js:62
+msgid "You may need to exclude the player script from combining, as well as enable CORS requests for some CDNs."
+msgstr ""
+
+#: admin/settings/pages/Performance.js:76
+msgid "Enable Ajax Requests for Progress Integrations"
+msgstr ""
+
+#: admin/settings/pages/Performance.js:80
+msgid "Keep this on unless you do not plan on using automation, LMS or membership integrations."
+msgstr ""
+
+#: admin/settings/settings.js:65
+msgid "Settings saved."
+msgstr ""
+
+#: admin/toolbar/index.js:51
+msgid "Instant Video Page"
+msgstr ""
+
+#: admin/toolbar/index.js:117
+msgid "An instant video page gives you an instant shareable page for your media."
+msgstr ""
+
+#: admin/ui/Menu.js:120
+msgid "Back"
+msgstr ""
+
+#: admin/ui/Pagination.js:40
+msgid "Showing %1s to %2s of %3s"
+msgstr ""
+
+#: admin/ui/Pagination.js:55
+msgid "Previous"
+msgstr ""
+
+#: admin/blocks/blocks/audio/block.json
+msgctxt "block title"
+msgid "Presto Audio"
+msgstr ""
+
+#: admin/blocks/blocks/audio/block.json
+msgctxt "block description"
+msgid "A audio player wrapper."
+msgstr ""
+
+#: admin/blocks/blocks/audio/block.json
+#: admin/blocks/blocks/media-hub/block.json
+msgctxt "block keyword"
+msgid "audio"
+msgstr ""
+
+#: admin/blocks/blocks/audio/block.json
+msgctxt "block variation title"
+msgid "Presto Audio"
+msgstr ""
+
+#: admin/blocks/blocks/audio/block.json
+msgctxt "block variation description"
+msgid "Presto Self-hosted Audio block."
+msgstr ""
+
+#: admin/blocks/blocks/bunny/block.json
+msgctxt "block title"
+msgid "Presto Bunny.net Video"
+msgstr ""
+
+#: admin/blocks/blocks/bunny/block.json
+msgctxt "block description"
+msgid "Serve public video through Bunny.net CDN."
+msgstr ""
+
+#: admin/blocks/blocks/bunny/block.json
+#: admin/blocks/blocks/hosted/block.json
+#: admin/blocks/blocks/media-hub/block.json
+#: admin/blocks/blocks/playlist/block.json
+#: admin/blocks/blocks/vimeo/block.json
+#: admin/blocks/blocks/youtube/block.json
+msgctxt "block keyword"
+msgid "video"
+msgstr ""
+
+#: admin/blocks/blocks/bunny/block.json
+msgctxt "block variation title"
+msgid "Presto Bunny.net Video"
+msgstr ""
+
+#: admin/blocks/blocks/bunny/block.json
+msgctxt "block variation description"
+msgid "Serve public video through Bunny.net CDN."
+msgstr ""
+
+#: admin/blocks/blocks/bunny/block.json
+msgctxt "block variation title"
+msgid "Presto Bunny.net Private Video"
+msgstr ""
+
+#: admin/blocks/blocks/bunny/block.json
+msgctxt "block variation description"
+msgid "Serve private, secure video through Bunny.net CDN."
+msgstr ""
+
+#: admin/blocks/blocks/hosted/block.json
+msgctxt "block title"
+msgid "Presto Video"
+msgstr ""
+
+#: admin/blocks/blocks/hosted/block.json
+msgctxt "block description"
+msgid "Presto Self-hosted video block."
+msgstr ""
+
+#: admin/blocks/blocks/hosted/block.json
+msgctxt "block variation title"
+msgid "Presto Video"
+msgstr ""
+
+#: admin/blocks/blocks/hosted/block.json
+msgctxt "block variation description"
+msgid "Presto Self-hosted video block."
+msgstr ""
+
+#: admin/blocks/blocks/media-hub/block.json
+msgctxt "block title"
+msgid "Presto Player"
+msgstr ""
+
+#: admin/blocks/blocks/media-hub/block.json
+msgctxt "block keyword"
+msgid "media"
+msgstr ""
+
+#: admin/blocks/blocks/media-hub/block.json
+msgctxt "block keyword"
+msgid "youtube"
+msgstr ""
+
+#: admin/blocks/blocks/media-hub/block.json
+msgctxt "block keyword"
+msgid "vimeo"
+msgstr ""
+
+#: admin/blocks/blocks/media-hub/block.json
+msgctxt "block keyword"
+msgid "bunny"
+msgstr ""
+
+#: admin/blocks/blocks/media-hub/block.json
+msgctxt "block keyword"
+msgid "presto"
+msgstr ""
+
+#: admin/blocks/blocks/media-hub/block.json
+msgctxt "block description"
+msgid "Allows you to add videos and audio to your site using Presto Player."
+msgstr ""
+
+#: admin/blocks/blocks/playlist/block.json
+msgctxt "block title"
+msgid "Presto Playlist"
+msgstr ""
+
+#: admin/blocks/blocks/playlist/block.json
+#: admin/blocks/blocks/reusable-edit/block.json
+msgctxt "block description"
+msgid "Create a playlist of videos or audio."
+msgstr ""
+
+#: admin/blocks/blocks/playlist/block.json
+msgctxt "block keyword"
+msgid "playlist"
+msgstr ""
+
+#: admin/blocks/blocks/reusable-edit/block.json
+msgctxt "block title"
+msgid "Edit Media"
+msgstr ""
+
+#: admin/blocks/blocks/vimeo/block.json
+msgctxt "block title"
+msgid "Presto Vimeo Video"
+msgstr ""
+
+#: admin/blocks/blocks/vimeo/block.json
+msgctxt "block description"
+msgid "A vimeo video wrapped in an awesome player."
+msgstr ""
+
+#: admin/blocks/blocks/youtube/block.json
+msgctxt "block title"
+msgid "Presto Youtube"
+msgstr ""
+
+#: admin/blocks/blocks/youtube/block.json
+msgctxt "block description"
+msgid "Presto YouTube block."
+msgstr ""
+
+#: Attachment.php:131
+msgid "The video files in the %s folder are not currently protected due to your site running on NGINX."
+msgstr ""
+
+#: Attachment.php:132
+msgid "If you plan on using private video, you will want to protect this directory. To protect them, you must add a firewall rule as explained in <a href=\"https://prestoplayer.com/protecting-videos-with-nginx\" target=\"_blank\">this guide</a>."
+msgstr ""
+
+#: Attachment.php:133
+msgid "If you have already added the rule, you may safely dismiss this notice"
+msgstr ""
+
+#: Attachment.php:145
+#: Services/ProCompatibility.php:50
+#: Services/ReusableVideos.php:46
+msgid "Dismiss Notice"
+msgstr ""
+
+#: Attachment.php:252
+msgid "Sorry %1$s! Access to this video is not allowed. An administrator will be informed."
+msgstr ""
+
+#: Attachment.php:255
+msgid "Forbidden"
+msgstr ""
+
+#: Blocks/SelfHostedBlock.php:25
+#: Services/VideoPostType.php:483
+msgid "Self-hosted"
+msgstr ""
+
+#: Files.php:203
+msgid "Private: "
+msgstr ""
+
+#: Files.php:233
+msgid "Irks! Error when creating a new private folder for private media"
+msgstr ""
+
+#: Integrations/BeaverBuilder/ReusableVideoModule/Module.php:14
+#: Integrations/BeaverBuilder/ReusableVideoModule/Module.php:15
+#: Integrations/Divi/includes/modules/PrestoPlayer/PrestoPlayer.php:18
+#: Integrations/Elementor/ReusableVideoWidget.php:49
+msgid "Presto Player Media"
+msgstr ""
+
+#: Integrations/BeaverBuilder/ReusableVideoModule/Module.php:76
+#: Services/Menu.php:52
+#: Services/Translation.php:93
+msgid "Settings"
+msgstr ""
+
+#: Integrations/BeaverBuilder/ReusableVideoModule/Module.php:83
+msgid "Select Media Hub Item"
+msgstr ""
+
+#: Integrations/BeaverBuilder/ReusableVideoModule/Module.php:111
+#: Integrations/Elementor/ReusableVideoWidget.php:108
+msgid "Media"
+msgstr ""
+
+#: Integrations/BeaverBuilder/ReusableVideoModule/Module.php:118
+msgid "Search Media Hub"
+msgstr ""
+
+#: Integrations/Divi/includes/modules/PrestoPlayer/PrestoPlayer.php:25
+msgid "Choose Media"
+msgstr ""
+
+#: Integrations/Divi/includes/modules/PrestoPlayer/PrestoPlayer.php:28
+msgid "Select from the media hub."
+msgstr ""
+
+#: Integrations/Divi/includes/modules/PrestoPlayer/PrestoPlayer.php:32
+#: Integrations/Elementor/ReusableVideoWidget.php:151
+msgid "Dynamic URL Override"
+msgstr ""
+
+#: Integrations/Divi/includes/modules/PrestoPlayer/PrestoPlayer.php:34
+msgid "Please choose media above before selecting dynamic URL override."
+msgstr ""
+
+#: Integrations/Elementor/ReusableVideoWidget.php:126
+#: Services/VideoPostType.php:333
+msgid "Edit Media"
+msgstr ""
+
+#: Integrations/Elementor/ReusableVideoWidget.php:139
+msgid "Create Media"
+msgstr ""
+
+#: Integrations/Elementor/ReusableVideoWidget.php:161
+msgid "Enter a url override"
+msgstr ""
+
+#: Integrations/Elementor/VideoWidget.php:146
+msgid "Source"
+msgstr ""
+
+#: Integrations/Elementor/VideoWidget.php:152
+msgid "Self Hosted"
+msgstr ""
+
+#: Integrations/Elementor/VideoWidget.php:169
+#: Integrations/Elementor/VideoWidget.php:190
+#: Integrations/Elementor/VideoWidget.php:234
+msgid "Enter your URL"
+msgstr ""
+
+#: Integrations/Elementor/VideoWidget.php:256
+#: Integrations/Elementor/VideoWidget.php:266
+msgid "Muted Preview"
+msgstr ""
+
+#: Integrations/Elementor/VideoWidget.php:297
+#: Services/VideoPostType.php:99
+msgid "Poster"
+msgstr ""
+
+#: Integrations/Elementor/VideoWidget.php:318
+msgid "Select A Preset"
+msgstr ""
+
+#. translators: placeholders: 1. Lesson or Topic label, 2. span for counter.
+#: Integrations/LearnDash/LearnDash.php:219
+msgctxt "placeholders: 1. Lesson or Topic label, 2. span for counter"
+msgid "<p class=\"ld-video-delay-message\">%1$s will auto complete in %2$s seconds</p>"
+msgstr ""
+
+#: Integrations/LearnDash/LearnDash.php:369
+msgid "Use Presto Video"
+msgstr ""
+
+#: Integrations/LearnDash/LearnDash.php:372
+msgid "Use the Presto Player video in your post content for video progression."
+msgstr ""
+
+#: Integrations/LearnDash/LearnDash.php:375
+msgid "The presto video in this post will be used for video progression."
+msgstr ""
+
+#: Models/LicensedProduct.php:90
+msgid "Activated"
+msgstr ""
+
+#: Models/Model.php:630
+msgid "You must first create or save this model to update it."
+msgstr ""
+
+#: Models/Model.php:652
+msgid "There was an issue updating the model."
+msgstr ""
+
+#: Models/Webhook.php:76
+msgid "You must enter a name for the webhook."
+msgstr ""
+
+#. translators: 1: plugin name 2: WordPress update documentation URL
+#: Requirements.php:65
+msgid "The activated plugin %1$s requires WordPress 5.6 or higher. Please update WordPress."
+msgstr ""
+
+#. translators: URL with WordPress installation instructions
+#: Requirements.php:68
+msgid "https://wordpress.org/support/article/updating-wordpress/"
+msgstr ""
+
+#: Seeds/AudioPresetSeeder.php:63
+#: Seeds/PresetSeeder.php:182
+#: Services/Translation.php:16
+msgid "Simple"
+msgstr ""
+
+#: Seeds/AudioPresetSeeder.php:90
+#: Seeds/PresetSeeder.php:227
+#: Services/Translation.php:17
+msgid "Minimal"
+msgstr ""
+
+#: Seeds/AudioPresetSeeder.php:117
+#: Seeds/PresetSeeder.php:82
+#: Services/Translation.php:15
+msgid "Course"
+msgstr ""
+
+#: Seeds/PresetSeeder.php:128
+#: Services/Translation.php:18
+msgid "Youtube Optimized"
+msgstr ""
+
+#: Seeds/PresetSeeder.php:155
+msgid "Subscribe to our channel"
+msgstr ""
+
+#: Services/AdminNotices.php:46
+msgid "Thanks a ton for choosing Presto Player! We are hard at work adding more features to help you harness the power of videos."
+msgstr ""
+
+#: Services/AdminNotices.php:47
+msgid "Could you please do us a BIG favor and give us a 5-star rating on WordPress? It really boosts the motivation of our team."
+msgstr ""
+
+#: Services/AdminNotices.php:49
+msgid "Ok, you deserve it"
+msgstr ""
+
+#: Services/AdminNotices.php:51
+msgid "Nope, maybe later"
+msgstr ""
+
+#: Services/AdminNotices.php:52
+msgid "I already did"
+msgstr ""
+
+#: Services/API/RestAudioPresetsController.php:128
+#: Services/API/RestPresetsController.php:126
+#: Services/API/RestVideosController.php:137
+msgid "Unique identifier for the object."
+msgstr ""
+
+#: Services/API/RestAudioPresetsController.php:134
+#: Services/API/RestPresetsController.php:132
+msgid "Name for the preset."
+msgstr ""
+
+#: Services/API/RestAudioPresetsController.php:141
+#: Services/API/RestPresetsController.php:139
+msgid "Preset url slug"
+msgstr ""
+
+#: Services/API/RestAudioPresetsController.php:146
+#: Services/API/RestPresetsController.php:144
+msgid "Icon for the preset."
+msgstr ""
+
+#: Services/API/RestAudioPresetsController.php:153
+#: Services/API/RestPresetsController.php:151
+msgid "Skin for the preset."
+msgstr ""
+
+#: Services/API/RestAudioPresetsController.php:159
+#: Services/API/RestAudioPresetsController.php:165
+#: Services/API/RestPresetsController.php:163
+msgid "Caption backgrounds."
+msgstr ""
+
+#: Services/API/RestAudioPresetsController.php:171
+#: Services/API/RestPresetsController.php:169
+msgid "The id of the user object, if author was a user."
+msgstr ""
+
+#: Services/API/RestAudioPresetsController.php:440
+#: Services/API/RestPresetsController.php:499
+msgid "Cannot create preset."
+msgstr ""
+
+#: Services/API/RestAudioPresetsController.php:465
+#: Services/API/RestPresetsController.php:525
+msgid "Cannot update preset."
+msgstr ""
+
+#: Services/API/RestAudioPresetsController.php:486
+#: Services/API/RestPresetsController.php:546
+msgid "This preset could not be trashed."
+msgstr ""
+
+#: Services/API/RestPresetsController.php:157
+msgid "Style for the caption."
+msgstr ""
+
+#: Services/API/RestSettingsController.php:127
+msgid "Markup is not allowed in CSS."
+msgstr ""
+
+#: Services/API/RestVideosController.php:143
+msgid "Title of the video."
+msgstr ""
+
+#: Services/API/RestVideosController.php:149
+msgid "Slug for the video type (one of youtube, vimeo, attachment, link)"
+msgstr ""
+
+#: Services/API/RestVideosController.php:156
+msgid "External unique id."
+msgstr ""
+
+#: Services/API/RestVideosController.php:162
+msgid "The id of the attachment."
+msgstr ""
+
+#: Services/API/RestVideosController.php:166
+msgid "The post the video is attached to."
+msgstr ""
+
+#: Services/API/RestVideosController.php:170
+msgid "Video source url."
+msgstr ""
+
+#: Services/API/RestVideosController.php:223
+msgid "Cannot create video."
+msgstr ""
+
+#: Services/API/RestVideosController.php:248
+msgid "Cannot get video."
+msgstr ""
+
+#: Services/API/RestVideosController.php:304
+msgid "Cannot update video."
+msgstr ""
+
+#: Services/Blocks.php:38
+#: Services/Blocks.php:58
+msgid "Presto"
+msgstr ""
+
+#: Services/License/AutoUpdate.php:95
+msgid "An error occour when try to identify the pluguin."
+msgstr ""
+
+#: Services/License/AutoUpdate.php:95
+#: Services/License/AutoUpdate.php:111
+msgid "Try again"
+msgstr ""
+
+#: Services/License/AutoUpdate.php:111
+msgid "An Unexpected HTTP Error occurred during the API request."
+msgstr ""
+
+#: Services/Menu.php:51
+msgid "Presto Player Settings"
+msgstr ""
+
+#: Services/ProCompatibility.php:37
+msgid "Please update your Presto Player Pro plugin for compatibility with the Presto Player core plugin. This ensures you have access to new features and updates."
+msgstr ""
+
+#: Services/ProCompatibility.php:38
+msgid "The recommeneded minimum pro version is <b>%s</b>."
+msgstr ""
+
+#: Services/ReusableVideos.php:33
+msgid "What is the media hub?"
+msgstr ""
+
+#: Services/ReusableVideos.php:34
+msgid "The media hub is a more flexible way to add media to your site. It allows you to save audio and videos which you can later use in any post or page on your site - either through the Block Editor, a page builder, or by using a shortcode or php function."
+msgstr ""
+
+#: Services/Settings.php:29
+msgid "Analytics settings."
+msgstr ""
+
+#: Services/Settings.php:59
+msgid "Branding settings."
+msgstr ""
+
+#: Services/Settings.php:97
+msgid "Performance settings."
+msgstr ""
+
+#: Services/Settings.php:127
+msgid "Uninstall settings."
+msgstr ""
+
+#: Services/Settings.php:153
+msgid "Google Analytics settings."
+msgstr ""
+
+#: Services/Settings.php:187
+#: Services/Settings.php:211
+msgid "Preset settings."
+msgstr ""
+
+#: Services/Settings.php:238
+msgid "Youtube settings."
+msgstr ""
+
+#: Services/Settings.php:268
+msgid "Instant video width."
+msgstr ""
+
+#: Services/Settings.php:289
+msgid "Set the default for media hub sync setting."
+msgstr ""
+
+#: Services/Shortcodes.php:119
+msgid "Playlist"
+msgstr ""
+
+#: Services/Translation.php:45
+msgid "Subscribe To Our YouTube Channel"
+msgstr ""
+
+#: Services/Translation.php:66
+msgid "Rewatch"
+msgstr ""
+
+#: Services/Translation.php:68
+msgid "Enter your email to play this episode."
+msgstr ""
+
+#: Services/Translation.php:70
+msgid "Show Chapters"
+msgstr ""
+
+#: Services/Translation.php:71
+msgid "Hide Chapters"
+msgstr ""
+
+#: Services/Translation.php:72
+msgid "Restart"
+msgstr ""
+
+#: Services/Translation.php:73
+msgid "Rewind %1ss"
+msgstr ""
+
+#: Services/Translation.php:74
+msgid "Play"
+msgstr ""
+
+#: Services/Translation.php:75
+msgid "Pause"
+msgstr ""
+
+#: Services/Translation.php:76
+msgid "Forward %1ss"
+msgstr ""
+
+#: Services/Translation.php:77
+msgid "Seek"
+msgstr ""
+
+#: Services/Translation.php:78
+msgid "%1$1s of %2$2s"
+msgstr ""
+
+#: Services/Translation.php:79
+msgid "Played"
+msgstr ""
+
+#: Services/Translation.php:80
+msgid "Buffered"
+msgstr ""
+
+#: Services/Translation.php:81
+msgid "Current time"
+msgstr ""
+
+#: Services/Translation.php:84
+msgid "Mute"
+msgstr ""
+
+#: Services/Translation.php:85
+msgid "Unmute"
+msgstr ""
+
+#: Services/Translation.php:86
+msgid "Enable captions"
+msgstr ""
+
+#: Services/Translation.php:87
+msgid "Disable captions"
+msgstr ""
+
+#: Services/Translation.php:88
+msgid "Download"
+msgstr ""
+
+#: Services/Translation.php:89
+msgid "Enter fullscreen"
+msgstr ""
+
+#: Services/Translation.php:90
+msgid "Exit fullscreen"
+msgstr ""
+
+#: Services/Translation.php:91
+msgid "Player for {title}"
+msgstr ""
+
+#: Services/Translation.php:94
+msgid "PIP"
+msgstr ""
+
+#: Services/Translation.php:95
+msgid "Go back to previous menu"
+msgstr ""
+
+#: Services/Translation.php:97
+msgid "Normal"
+msgstr ""
+
+#: Services/Translation.php:98
+msgid "Quality"
+msgstr ""
+
+#: Services/Translation.php:102
+msgid "All"
+msgstr ""
+
+#: Services/Translation.php:104
+msgid "Disabled"
+msgstr ""
+
+#: Services/Translation.php:105
+msgid "Enabled"
+msgstr ""
+
+#: Services/Translation.php:106
+msgid "Ad"
+msgstr ""
+
+#: Services/Translation.php:108
+msgid "4K"
+msgstr ""
+
+#: Services/Translation.php:109
+#: Services/Translation.php:110
+#: Services/Translation.php:111
+msgid "HD"
+msgstr ""
+
+#: Services/Translation.php:112
+#: Services/Translation.php:113
+msgid "SD"
+msgstr ""
+
+#: Services/Translation.php:115
+msgid "AUTO"
+msgstr ""
+
+#: Services/Translation.php:116
+msgid "Up Next"
+msgstr ""
+
+#: Services/Translation.php:117
+msgid "Start Over"
+msgstr ""
+
+#: Services/VideoPostType.php:101
+msgid "Shortcode"
+msgstr ""
+
+#: Services/VideoPostType.php:254
+msgid "Enter a title..."
+msgstr ""
+
+#: Services/VideoPostType.php:309
+msgctxt "post type general name"
+msgid "Media Tags"
+msgstr ""
+
+#: Services/VideoPostType.php:310
+msgctxt "post type singular name"
+msgid "Media Tag"
+msgstr ""
+
+#: Services/VideoPostType.php:311
+msgctxt "admin menu"
+msgid "Search Media Tags"
+msgstr ""
+
+#: Services/VideoPostType.php:312
+msgctxt "add new on admin bar"
+msgid "Popular Media Tags"
+msgstr ""
+
+#: Services/VideoPostType.php:326
+msgctxt "post type general name"
+msgid "Media Hub"
+msgstr ""
+
+#: Services/VideoPostType.php:327
+msgctxt "post type singular name"
+msgid "Media"
+msgstr ""
+
+#: Services/VideoPostType.php:328
+msgctxt "admin menu"
+msgid "Media"
+msgstr ""
+
+#: Services/VideoPostType.php:329
+msgctxt "add new on admin bar"
+msgid "Media"
+msgstr ""
+
+#: Services/VideoPostType.php:330
+msgctxt "Media"
+msgid "Add New"
+msgstr ""
+
+#: Services/VideoPostType.php:331
+msgid "Add New Media"
+msgstr ""
+
+#: Services/VideoPostType.php:332
+msgid "New Media"
+msgstr ""
+
+#: Services/VideoPostType.php:334
+msgid "View Media"
+msgstr ""
+
+#: Services/VideoPostType.php:336
+msgid "Search Media"
+msgstr ""
+
+#: Services/VideoPostType.php:337
+msgid "No Media found."
+msgstr ""
+
+#: Services/VideoPostType.php:338
+msgid "No Media found in Trash."
+msgstr ""
+
+#: Services/VideoPostType.php:339
+msgid "Filter Media list"
+msgstr ""
+
+#: Services/VideoPostType.php:340
+msgid "Media list navigation"
+msgstr ""
+
+#: Services/VideoPostType.php:341
+msgid "Media list"
+msgstr ""
+
+#: Services/VideoPostType.php:342
+msgid "Media published."
+msgstr ""
+
+#: Services/VideoPostType.php:343
+msgid "Media published privately."
+msgstr ""
+
+#: Services/VideoPostType.php:344
+msgid "Media reverted to draft."
+msgstr ""
+
+#: Services/VideoPostType.php:345
+msgid "Media scheduled."
+msgstr ""
+
+#: Services/VideoPostType.php:346
+msgid "Media updated."
+msgstr ""
+
+#: Services/VideoPostType.php:393
+msgid "Show all %s"
+msgstr ""
+
+#: Services/VideoPostType.php:487
+msgid "Bunny"
+msgstr ""
+
+#: Support/Utility.php:34
+msgid "0 seconds"
+msgstr ""
+
+#. translators: %s: Time duration in hour or hours.
+#: Support/Utility.php:75
+msgid "%s hour"
+msgid_plural "%s hours"
+msgstr[0] ""
+msgstr[1] ""
+
+#. translators: %s: Time duration in minute or minutes.
+#: Support/Utility.php:81
+msgid "%s minute"
+msgid_plural "%s minutes"
+msgstr[0] ""
+msgstr[1] ""
+
+#. translators: %s: Time duration in second or seconds.
+#: Support/Utility.php:87
+msgid "%s second"
+msgid_plural "%s seconds"
+msgstr[0] ""
+msgstr[1] ""
+
+#: single-presto-media.php:42
+msgid "Unpublished"
+msgstr ""
+
+#: unauthorized.php:3
+msgid "Please login for access."
+msgstr ""
+
+#: unauthorized.php:5
+msgid "Login"
+msgstr ""

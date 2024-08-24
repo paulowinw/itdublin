@@ -1,0 +1,146 @@
+{
+  "$schema": "https://schemas.wp.org/trunk/block.json",
+  "name": "presto-player/bunny",
+  "title": "Presto Bunny.net Video",
+  "category": "presto",
+  "description": "Serve public video through Bunny.net CDN.",
+  "keywords": [
+    "video"
+  ],
+  "textdomain": "presto-player",
+  "usesContext": [
+    "presto-player/playlist-media-id"
+  ],
+  "attributes": {
+    "visibility": {
+      "type": "string",
+      "default": "public"
+    },
+    "color": {
+      "type": "string",
+      "default": "#00b3ff"
+    },
+    "blockAlignment": {
+      "type": "string"
+    },
+    "mutedPreview": {
+      "type": "object",
+      "default": {
+        "enabled": false,
+        "captions": false
+      }
+    },
+    "mutedOverlay": {
+      "type": "object",
+      "default": {
+        "enabled": false,
+        "src": "",
+        "width": 200,
+        "focalPoint": {
+          "x": 0.5,
+          "y": 0.5
+        }
+      }
+    },
+    "mutedPreviewCaptions": {
+      "type": "boolean"
+    },
+    "mutedOverlayType": {
+      "type": "string",
+      "default": "text"
+    },
+    "mutedOverlayText": {
+      "type": "string",
+      "default": "Click to play"
+    },
+    "mutedOverlaySrc": {
+      "type": "string"
+    },
+    "mutedOverlayImageWidth": {
+      "type": "number",
+      "default": 200
+    },
+    "mutedOverlayFocalPoint": {
+      "type": "object"
+    },
+    "autoplay": {
+      "type": "boolean"
+    },
+    "preload": {
+      "type": "string"
+    },
+    "playsInline": {
+      "type": "boolean",
+      "default": true
+    },
+    "id": {
+      "type": "number"
+    },
+    "attachment_id": {
+      "type": "number"
+    },
+    "src": {
+      "type": "string"
+    },
+    "imageID": {
+      "type": "number"
+    },
+    "poster": {
+      "type": "string"
+    },
+    "content": {
+      "type": "boolean"
+    },
+    "preset": {
+      "type": "number"
+    },
+    "chapters": {
+      "type": "array",
+      "default": []
+    },
+    "overlays": {
+      "type": "array",
+      "default": []
+    },
+    "tracks": {
+      "type": "array",
+      "items": {
+        "type": "object"
+      },
+      "default": []
+    },
+    "thumbnail": {
+      "type": "string",
+      "default": ""
+    },
+    "preview": {
+      "type": "string",
+      "default": ""
+    }
+  },
+  "variations": [
+    {
+      "name": "public",
+      "isDefault": true,
+      "title": "Presto Bunny.net Video",
+      "description": "Serve public video through Bunny.net CDN.",
+      "attributes": {
+        "visibility": "public"
+      }
+    },
+    {
+      "name": "private",
+      "title": "Presto Bunny.net Private Video",
+      "description": "Serve private, secure video through Bunny.net CDN.",
+      "attributes": {
+        "visibility": "private"
+      },
+      "icon": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24' fill='none' stroke='currentColor' stroke-width='2' stroke-linecap='round' stroke-linejoin='round' class='presto-block-icon'><path d='M12 22s8-4 8-10V5l-8-3-8 3v7c0 6 8 10 8 10z'></path></svg>"
+    }
+  ],
+  "supports": {
+    "align": true,
+    "inserter": false
+  },
+  "script": "presto-components"
+}

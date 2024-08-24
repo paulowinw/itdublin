@@ -1,0 +1,1 @@
+import{newSpecPage}from"@stencil/core/testing";import{h}from"@stencil/core";import{PrestoPlaylist}from"../presto-playlist";describe("presto-playlist",(()=>{it("renders",(async()=>{const t=await newSpecPage({components:[PrestoPlaylist],template:()=>h("presto-playlist",null)});expect(t.root).toMatchSnapshot()}))}));

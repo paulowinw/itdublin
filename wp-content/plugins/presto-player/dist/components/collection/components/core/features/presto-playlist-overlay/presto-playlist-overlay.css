@@ -1,0 +1,71 @@
+:host {
+  display: block;
+  cursor: pointer;
+}
+
+.playlist__overlay {
+  color: #fff;
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background: rgba(0, 0, 0, 0.7);
+  z-index: 999;
+}
+.playlist__overlay h2,
+.playlist__overlay p {
+  margin: 0;
+  padding: 0;
+  line-height: 1;
+}
+.playlist__overlay h2 {
+  margin-bottom: 0.4em;
+}
+.playlist__overlay .playlist__overlay-wrap {
+  top: 0;
+  position: absolute;
+  padding: 25px;
+  left: 0;
+  display: grid;
+  gap: 1em;
+}
+.playlist__overlay .playlist__overlay-buttons {
+  display: flex;
+  gap: 13px;
+}
+.playlist__overlay .playlist__overlay-buttons button {
+  background: rgba(255, 255, 255, 0.8);
+  border-radius: 5px;
+  padding: 10px 12px;
+  border: 1px solid #ffffff;
+  font-weight: 500;
+  font-size: 13px;
+  line-height: 15px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  gap: 16px;
+  cursor: pointer;
+}
+.playlist__overlay .playlist__overlay-buttons button.previous {
+  background-color: transparent;
+  border: 1px solid #ffffff;
+  margin-right: 10px;
+  color: #ffffff;
+}
+.playlist__overlay .playlist__overlay-buttons button.next {
+  background: linear-gradient(to right, rgb(255, 255, 255) 50%, rgba(255, 255, 255, 0.8) 50%);
+  background-size: 200% 100%;
+  background-position: right bottom;
+}
+.playlist__overlay .playlist__overlay-buttons button.next.fill-button {
+  transition: all var(--playlist-transition-duration, 5s) ease-out;
+  background-position: left bottom;
+}
+.playlist__overlay .playlist__overlay-buttons button.next.disabled {
+  background-color: transparent;
+  border: 1px solid #ffffff;
+  color: #ffffff;
+  background: none;
+}

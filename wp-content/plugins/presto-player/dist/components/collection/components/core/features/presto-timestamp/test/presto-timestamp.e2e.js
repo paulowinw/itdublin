@@ -1,0 +1,1 @@
+import{newE2EPage}from"@stencil/core/testing";describe("presto-timestamp",(()=>{it("renders",(async()=>{const t=await newE2EPage();await t.setContent("<presto-timestamp></presto-timestamp>");const e=await t.find("presto-timestamp");expect(e).toHaveClass("hydrated")}))}));

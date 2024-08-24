@@ -1,0 +1,1 @@
+import{newE2EPage}from"@stencil/core/testing";describe("presto-dynamic-overlays",(()=>{it("renders",(async()=>{const e=await newE2EPage();await e.setContent("<presto-dynamic-overlays></presto-dynamic-overlays>");const a=await e.find("presto-dynamic-overlays");expect(a).toHaveClass("hydrated")}))}));

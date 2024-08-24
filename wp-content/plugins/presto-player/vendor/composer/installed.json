@@ -1,0 +1,489 @@
+{
+    "packages": [
+        {
+            "name": "brainstormforce/astra-notices",
+            "version": "1.1.11",
+            "version_normalized": "1.1.11.0",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/brainstormforce/astra-notices.git",
+                "reference": "742c8879a3a9154a55fbf628324af96154d2697f"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/brainstormforce/astra-notices/zipball/742c8879a3a9154a55fbf628324af96154d2697f",
+                "reference": "742c8879a3a9154a55fbf628324af96154d2697f",
+                "shasum": ""
+            },
+            "require": {
+                "composer/installers": "^2.0"
+            },
+            "require-dev": {
+                "dealerdirect/phpcodesniffer-composer-installer": "^0.7.1",
+                "phpcompatibility/phpcompatibility-wp": "^2.1",
+                "phpunit/phpunit": "^7",
+                "roots/wordpress": "^5.9",
+                "wp-cli/dist-archive-command": "^2.0",
+                "wp-coding-standards/wpcs": "^2.3",
+                "wp-phpunit/wp-phpunit": "^5",
+                "yoast/phpunit-polyfills": "^1.0"
+            },
+            "time": "2022-02-09T09:14:49+00:00",
+            "type": "wordpress-plugin",
+            "installation-source": "dist",
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "GPL-3.0-or-later"
+            ],
+            "authors": [
+                {
+                    "name": "Brainstorm Force",
+                    "email": "hello@bsf.io"
+                }
+            ],
+            "description": "Easily create admin notices",
+            "support": {
+                "issues": "https://github.com/brainstormforce/astra-notices/issues",
+                "source": "https://github.com/brainstormforce/astra-notices/tree/1.1.11"
+            },
+            "install-path": "../brainstormforce/astra-notices"
+        },
+        {
+            "name": "composer/installers",
+            "version": "v2.2.0",
+            "version_normalized": "2.2.0.0",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/composer/installers.git",
+                "reference": "c29dc4b93137acb82734f672c37e029dfbd95b35"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/composer/installers/zipball/c29dc4b93137acb82734f672c37e029dfbd95b35",
+                "reference": "c29dc4b93137acb82734f672c37e029dfbd95b35",
+                "shasum": ""
+            },
+            "require": {
+                "composer-plugin-api": "^1.0 || ^2.0",
+                "php": "^7.2 || ^8.0"
+            },
+            "require-dev": {
+                "composer/composer": "1.6.* || ^2.0",
+                "composer/semver": "^1 || ^3",
+                "phpstan/phpstan": "^0.12.55",
+                "phpstan/phpstan-phpunit": "^0.12.16",
+                "symfony/phpunit-bridge": "^5.3",
+                "symfony/process": "^5"
+            },
+            "time": "2022-08-20T06:45:11+00:00",
+            "type": "composer-plugin",
+            "extra": {
+                "class": "Composer\\Installers\\Plugin",
+                "branch-alias": {
+                    "dev-main": "2.x-dev"
+                },
+                "plugin-modifies-install-path": true
+            },
+            "installation-source": "dist",
+            "autoload": {
+                "psr-4": {
+                    "Composer\\Installers\\": "src/Composer/Installers"
+                }
+            },
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "MIT"
+            ],
+            "authors": [
+                {
+                    "name": "Kyle Robinson Young",
+                    "email": "kyle@dontkry.com",
+                    "homepage": "https://github.com/shama"
+                }
+            ],
+            "description": "A multi-framework Composer library installer",
+            "homepage": "https://composer.github.io/installers/",
+            "keywords": [
+                "Dolibarr",
+                "Eliasis",
+                "Hurad",
+                "ImageCMS",
+                "Kanboard",
+                "Lan Management System",
+                "MODX Evo",
+                "MantisBT",
+                "Mautic",
+                "Maya",
+                "OXID",
+                "Plentymarkets",
+                "Porto",
+                "RadPHP",
+                "SMF",
+                "Starbug",
+                "Thelia",
+                "Whmcs",
+                "WolfCMS",
+                "agl",
+                "annotatecms",
+                "attogram",
+                "bitrix",
+                "cakephp",
+                "chef",
+                "cockpit",
+                "codeigniter",
+                "concrete5",
+                "croogo",
+                "dokuwiki",
+                "drupal",
+                "eZ Platform",
+                "elgg",
+                "expressionengine",
+                "fuelphp",
+                "grav",
+                "installer",
+                "itop",
+                "known",
+                "kohana",
+                "laravel",
+                "lavalite",
+                "lithium",
+                "magento",
+                "majima",
+                "mako",
+                "matomo",
+                "mediawiki",
+                "miaoxing",
+                "modulework",
+                "modx",
+                "moodle",
+                "osclass",
+                "pantheon",
+                "phpbb",
+                "piwik",
+                "ppi",
+                "processwire",
+                "puppet",
+                "pxcms",
+                "reindex",
+                "roundcube",
+                "shopware",
+                "silverstripe",
+                "sydes",
+                "sylius",
+                "tastyigniter",
+                "wordpress",
+                "yawik",
+                "zend",
+                "zikula"
+            ],
+            "support": {
+                "issues": "https://github.com/composer/installers/issues",
+                "source": "https://github.com/composer/installers/tree/v2.2.0"
+            },
+            "funding": [
+                {
+                    "url": "https://packagist.com",
+                    "type": "custom"
+                },
+                {
+                    "url": "https://github.com/composer",
+                    "type": "github"
+                },
+                {
+                    "url": "https://tidelift.com/funding/github/packagist/composer/composer",
+                    "type": "tidelift"
+                }
+            ],
+            "install-path": "./installers"
+        },
+        {
+            "name": "level-2/dice",
+            "version": "4.0.4",
+            "version_normalized": "4.0.4.0",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/Level-2/Dice.git",
+                "reference": "e04c98d96bcc932a917b2b7e7944887e4839056a"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/Level-2/Dice/zipball/e04c98d96bcc932a917b2b7e7944887e4839056a",
+                "reference": "e04c98d96bcc932a917b2b7e7944887e4839056a",
+                "shasum": ""
+            },
+            "require": {
+                "php": ">=7.0.0"
+            },
+            "require-dev": {
+                "phpunit/phpunit": "^6.5"
+            },
+            "time": "2022-03-28T21:20:23+00:00",
+            "type": "library",
+            "installation-source": "dist",
+            "autoload": {
+                "psr-4": {
+                    "Dice\\": "./"
+                }
+            },
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "BSD-2-Clause"
+            ],
+            "authors": [
+                {
+                    "name": "Tom Butler",
+                    "email": "tom@r.je"
+                }
+            ],
+            "description": "A minimalist Dependency injection container (DIC) for PHP. Please note: 3.0+ is only compatible with PHP 7.0. The 2.0 branch is compatbile with PHP 5.6.",
+            "homepage": "http://r.je/dice.html",
+            "keywords": [
+                "dependency injection",
+                "dependency injection container",
+                "di",
+                "ioc"
+            ],
+            "support": {
+                "issues": "https://github.com/Level-2/Dice/issues",
+                "source": "https://github.com/Level-2/Dice/tree/4.0.4"
+            },
+            "install-path": "../level-2/dice"
+        },
+        {
+            "name": "mundschenk-at/check-wp-requirements",
+            "version": "v2.0.0",
+            "version_normalized": "2.0.0.0",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/mundschenk-at/check-wp-requirements.git",
+                "reference": "3a4e514823258f6cf99c4a696d429aa0062de506"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/mundschenk-at/check-wp-requirements/zipball/3a4e514823258f6cf99c4a696d429aa0062de506",
+                "reference": "3a4e514823258f6cf99c4a696d429aa0062de506",
+                "shasum": ""
+            },
+            "require": {
+                "php": ">=5.2.0"
+            },
+            "require-dev": {
+                "brain/monkey": "^2.0@dev",
+                "dealerdirect/phpcodesniffer-composer-installer": "^0.5",
+                "mikey179/vfsstream": "~1",
+                "phpcompatibility/php-compatibility": "^9.0",
+                "phpunit/phpunit": "5.*|6.*|7.*",
+                "squizlabs/php_codesniffer": "^3.0",
+                "wp-coding-standards/wpcs": "^2.0"
+            },
+            "time": "2019-06-25T17:42:15+00:00",
+            "type": "library",
+            "installation-source": "dist",
+            "autoload": {
+                "classmap": [
+                    "class-wp-requirements.php"
+                ]
+            },
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "GPL-2.0-or-later"
+            ],
+            "authors": [
+                {
+                    "name": "Peter Putzer",
+                    "email": "github@mundschenk.at",
+                    "homepage": "https://code.mundschenk.at",
+                    "role": "Developer"
+                }
+            ],
+            "description": "A class to allow WordPress plugins to check certain runtime requirements before activation.",
+            "support": {
+                "issues": "https://github.com/mundschenk-at/check-wp-requirements/issues",
+                "source": "https://github.com/mundschenk-at/check-wp-requirements/tree/master"
+            },
+            "install-path": "../mundschenk-at/check-wp-requirements"
+        },
+        {
+            "name": "typisttech/imposter",
+            "version": "0.6.1",
+            "version_normalized": "0.6.1.0",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/TypistTech/imposter.git",
+                "reference": "f52b1a2289d2ea9c660cf9595085d0b11469af83"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/TypistTech/imposter/zipball/f52b1a2289d2ea9c660cf9595085d0b11469af83",
+                "reference": "f52b1a2289d2ea9c660cf9595085d0b11469af83",
+                "shasum": ""
+            },
+            "require": {
+                "ext-json": "*",
+                "php": "^7.3 || ^8.0"
+            },
+            "require-dev": {
+                "codeception/codeception": "^4.1",
+                "codeception/mockery-module": "^0.4.0",
+                "codeception/module-asserts": "^1.3",
+                "codeception/module-filesystem": "^1.0",
+                "squizlabs/php_codesniffer": "^3.5"
+            },
+            "suggest": {
+                "typisttech/imposter-plugin": "Composer plugin to integrate composer and imposter"
+            },
+            "time": "2020-12-06T22:57:09+00:00",
+            "type": "library",
+            "extra": {
+                "branch-alias": {
+                    "dev-master": "0.6.x-dev"
+                }
+            },
+            "installation-source": "dist",
+            "autoload": {
+                "psr-4": {
+                    "TypistTech\\Imposter\\": "src"
+                }
+            },
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "MIT"
+            ],
+            "authors": [
+                {
+                    "name": "Typist Tech",
+                    "email": "imposter@typist.tech",
+                    "homepage": "https://typist.tech"
+                },
+                {
+                    "name": "Tang Rufus",
+                    "email": "tangrufus@gmail.com",
+                    "homepage": "https://typist.tech",
+                    "role": "Developer"
+                }
+            ],
+            "description": "Wrapping all composer vendor packages inside your own namespace. Intended for WordPress plugins.",
+            "homepage": "https://github.com/TypistTech/imposter",
+            "keywords": [
+                "composer",
+                "dependency",
+                "monkey-patching",
+                "namespace",
+                "wordpress"
+            ],
+            "support": {
+                "email": "imposter@typist.tech",
+                "issues": "https://github.com/TypistTech/imposter/issues",
+                "source": "https://github.com/TypistTech/imposter"
+            },
+            "funding": [
+                {
+                    "url": "https://typist.tech/donation/",
+                    "type": "custom"
+                },
+                {
+                    "url": "https://www.paypal.me/iAmTangRufus/30usd",
+                    "type": "custom"
+                },
+                {
+                    "url": "https://github.com/tangrufus",
+                    "type": "github"
+                }
+            ],
+            "install-path": "../typisttech/imposter"
+        },
+        {
+            "name": "typisttech/imposter-plugin",
+            "version": "0.6.2",
+            "version_normalized": "0.6.2.0",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/TypistTech/imposter-plugin.git",
+                "reference": "15fa3c90aca3b79497f438b9e02a6176498de53c"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/TypistTech/imposter-plugin/zipball/15fa3c90aca3b79497f438b9e02a6176498de53c",
+                "reference": "15fa3c90aca3b79497f438b9e02a6176498de53c",
+                "shasum": ""
+            },
+            "require": {
+                "composer-plugin-api": "^1.1 || ^2.0",
+                "php": "^7.3 || ^8.0",
+                "typisttech/imposter": "^0.6.1"
+            },
+            "require-dev": {
+                "codeception/codeception": "^4.1",
+                "codeception/module-asserts": "^1.3",
+                "codeception/module-cli": "^1.1",
+                "codeception/module-filesystem": "^1.0",
+                "composer/composer": "^1.10.19 || ^2.0",
+                "squizlabs/php_codesniffer": "^3.5",
+                "typisttech/codeception-composer-project-module": "^0.1.1"
+            },
+            "time": "2020-12-06T23:41:30+00:00",
+            "type": "composer-plugin",
+            "extra": {
+                "branch-alias": {
+                    "dev-master": "0.6.x-dev"
+                },
+                "class": "TypistTech\\Imposter\\Plugin\\ImposterPlugin"
+            },
+            "installation-source": "dist",
+            "autoload": {
+                "psr-4": {
+                    "TypistTech\\Imposter\\Plugin\\": "src"
+                }
+            },
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "MIT"
+            ],
+            "authors": [
+                {
+                    "name": "Typist Tech",
+                    "email": "imposter-plugin@typist.tech",
+                    "homepage": "https://www.typist.tech"
+                },
+                {
+                    "name": "Tang Rufus",
+                    "email": "tangrufus@gmail.com",
+                    "homepage": "https://www.typist.tech",
+                    "role": "Developer"
+                }
+            ],
+            "description": "Composer plugin that wraps all composer vendor packages inside your own namespace. Intended for WordPress plugins.",
+            "homepage": "https://github.com/TypistTech/imposter-plugin",
+            "keywords": [
+                "composer",
+                "composer-plugin",
+                "dependency",
+                "monkey-patching",
+                "namespace",
+                "wordpress"
+            ],
+            "support": {
+                "email": "imposter-plugin@typist.tech",
+                "issues": "https://github.com/TypistTech/imposter-plugin/issues",
+                "source": "https://github.com/TypistTech/imposter-plugin"
+            },
+            "funding": [
+                {
+                    "url": "https://typist.tech/donation/",
+                    "type": "custom"
+                },
+                {
+                    "url": "https://www.paypal.me/iAmTangRufus/30usd",
+                    "type": "custom"
+                },
+                {
+                    "url": "https://github.com/tangrufus",
+                    "type": "github"
+                }
+            ],
+            "install-path": "../typisttech/imposter-plugin"
+        }
+    ],
+    "dev": false,
+    "dev-package-names": []
+}

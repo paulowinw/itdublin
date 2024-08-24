@@ -1,0 +1,54 @@
+.presto-card {
+  &__title {
+    opacity: 0.75;
+    font-size: 1rem;
+    clear: both;
+    margin: 0.75rem 0;
+  }
+}
+
+.presto-player-dashboard {
+  &__version {
+    line-height: 1;
+    padding: 6px 12px;
+    background: #f1f1f1;
+    color: #666;
+    font-weight: 500;
+    border-radius: 999px;
+  }
+
+  &__header {
+    background: #fff;
+    margin-left: -20px;
+    margin-right: -20px;
+    padding: 20px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    max-width: calc(100% + 20px);
+  }
+
+  &__logo {
+    max-height: 30px;
+    max-width: 200px;
+  }
+}
+
+.presto-module-tabs [role="tablist"] {
+  border-bottom: 1px solid rgb(226, 228, 231);
+}
+
+.presto-badge {
+  border-radius: 9999px;
+  border: 1px solid var(--wp-admin-theme-color, #007cba);
+  color: var(--wp-admin-theme-color, #007cba);
+  padding: 5px 10px;
+  line-height: 1;
+  white-space: nowrap;
+  display: inline-block;
+}
+
+.apexcharts-xaxis text,
+.apexcharts-yaxis text {
+  opacity: 0.35;
+}

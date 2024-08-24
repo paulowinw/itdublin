@@ -1,0 +1,1 @@
+import{newE2EPage}from"@stencil/core/testing";describe("presto-youtube",(()=>{it("renders",(async()=>{const e=await newE2EPage();await e.setContent("<presto-youtube></presto-youtube>");const t=await e.find("presto-youtube");expect(t).toHaveClass("hydrated")}))}));

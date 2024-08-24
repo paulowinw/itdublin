@@ -1,0 +1,19 @@
+{
+  "$schema": "https://schemas.wp.org/trunk/block.json",
+  "name": "presto-player/media-hub",
+  "apiVersion": 2,
+  "title": "Presto Player",
+  "category": "presto",
+  "keywords": [
+    "video",
+    "audio",
+    "media",
+    "youtube",
+    "vimeo",
+    "bunny",
+    "presto"
+  ],
+  "description": "Allows you to add videos and audio to your site using Presto Player.",
+  "textdomain": "presto-player",
+  "script": "presto-components"
+}

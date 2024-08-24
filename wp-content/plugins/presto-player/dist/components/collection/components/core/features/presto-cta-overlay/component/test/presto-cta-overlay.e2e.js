@@ -1,0 +1,1 @@
+import{newE2EPage}from"@stencil/core/testing";describe("presto-cta-overlay",(()=>{let e,t;beforeEach((async()=>{e=await newE2EPage(),await e.setContent("<presto-cta-overlay></presto-cta-overlay>"),t=await e.find("presto-cta-overlay")})),it("renders",(async()=>{expect(t).toHaveClass("hydrated")}))}));

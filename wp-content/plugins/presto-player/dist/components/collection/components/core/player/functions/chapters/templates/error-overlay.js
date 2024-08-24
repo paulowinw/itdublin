@@ -1,0 +1,1 @@
+export default function({title:r="",description:e=""}){return`<div class="presto-player-error" data-timeline-marker>\n  <div>\n    ${r?`<div class="presto-player-error__title">${r}</div>`:""}\n      ${e?`<div class="presto-player-error__description">${e}</div>`:""}\n    </div>\n</div>`}

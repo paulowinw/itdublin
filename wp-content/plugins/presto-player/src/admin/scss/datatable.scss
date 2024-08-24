@@ -1,0 +1,19 @@
+.datatable {
+  display: flex;
+  flex-direction: column;
+  background: #fff;
+  border: 1px solid rgb(226, 228, 231);
+  .table-card {
+    border-bottom-left-radius: 0;
+    border-bottom-right-radius: 0;
+    border-bottom: none;
+    border: none;
+  }
+  .pagination {
+    border-top-left-radius: 0;
+    border-top-right-radius: 0;
+    border-top: none;
+    margin-top: auto;
+    border: none;
+  }
+}

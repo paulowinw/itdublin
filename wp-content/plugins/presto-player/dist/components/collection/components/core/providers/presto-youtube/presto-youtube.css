@@ -1,0 +1,29 @@
+:host {
+  display: block;
+}
+
+.fallback-container {
+  position: relative;
+  padding-bottom: 56.25%;
+  padding-top: 30px;
+  height: 0;
+  overflow: hidden;
+}
+.fallback-container iframe,
+.fallback-container object,
+.fallback-container embed {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+}
+/** make sure the height applies */
+@supports not (aspect-ratio: 16/9) {
+  .plyr__video-embed,
+  .plyr__video-wrapper--fixed-ratio {
+    height: 0 !important;
+    padding-bottom: 56.25%;
+    position: relative;
+  }
+}

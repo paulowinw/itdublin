@@ -1,0 +1,23 @@
+:host {
+  display: block;
+}
+
+.overlay-text {
+  text-decoration: none;
+  display: inline-block;
+  user-select: none;
+  line-height: 1;
+  opacity: var(--presto-dynamic-overlay-opacity, 1);
+  font-size: var(--presto-dynamic-overlay-font-size, 18px);
+  padding: var(--presto-dynamic-overlay-padding, 0.65em 0.85em);
+  font-weight: var(--presto-dynamic-overlay-font-weight, 500);
+  border-radius: var(--presto-dynamic-overlay-radius, 0.25em);
+  background: var(--presto-dynamic-overlay-background, rgba(0, 0, 0, 0.8));
+  color: var(--presto-dynamic-overlay-color, #fff);
+  opacity: var(--presto-dynamic-overlay-opacity, 1);
+  word-break: break-word;
+}
+
+a.overlay-text {
+  cursor: pointer;
+}

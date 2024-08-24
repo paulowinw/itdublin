@@ -1,0 +1,1 @@
+import{newSpecPage}from"@stencil/core/testing";import{PrestoBunny}from"../presto-bunny";describe("presto-bunny",(()=>{it("renders",(async()=>{const n=await newSpecPage({components:[PrestoBunny],html:"<presto-bunny></presto-bunny>"});expect(n.root).toEqualHtml("\n      <presto-bunny>\n        <presto-video></presto-video>\n      </presto-bunny>\n    ")}))}));

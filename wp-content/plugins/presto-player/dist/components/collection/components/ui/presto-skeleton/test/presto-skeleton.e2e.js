@@ -1,0 +1,1 @@
+import{newE2EPage}from"@stencil/core/testing";describe("presto-player-skeleton",(()=>{it("renders",(async()=>{const e=await newE2EPage();await e.setContent("<presto-player-skeleton></presto-player-skeleton>");const t=await e.find("presto-player-skeleton");expect(t).toHaveClass("hydrated")}))}));

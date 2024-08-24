@@ -1,0 +1,1 @@
+import{P as PrestoVideo$1,d as defineCustomElement$1}from"./presto-video2.js";const PrestoVideo=PrestoVideo$1,defineCustomElement=defineCustomElement$1;export{PrestoVideo,defineCustomElement};

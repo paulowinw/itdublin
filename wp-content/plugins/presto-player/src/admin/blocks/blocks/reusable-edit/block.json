@@ -1,0 +1,16 @@
+{
+  "$schema": "https://schemas.wp.org/trunk/block.json",
+  "name": "presto-player/reusable-edit",
+  "apiVersion": 2,
+  "title": "Edit Media",
+  "category": "presto",
+  "description": "Create a playlist of videos or audio.",
+  "textdomain": "presto-player",
+  "usesContext": ["presto-player/playlist-media-id"],
+  "supports": {
+    "inserter": false,
+    "reusable": false,
+    "html": false
+  },
+  "script": "presto-components"
+}

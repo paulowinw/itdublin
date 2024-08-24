@@ -1,0 +1,46 @@
+.presto-dashboard {
+  &__row {
+    --spacing: 1rem;
+    --column-count: 2;
+
+    display: flex;
+    flex-wrap: wrap;
+    margin: 0 calc(var(--spacing) * -0.5);
+    align-items: stretch;
+    justify-content: space-between;
+  }
+
+  &__item {
+    flex: 0 1 33.33%;
+    padding: calc(var(--spacing) / 3);
+    width: 33.33%;
+
+    > * {
+      height: 100%;
+    }
+
+    &.is-large {
+      flex: 1;
+    }
+  }
+
+  &__header {
+    background: #fff;
+    padding: 20px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+  }
+  &__logo {
+    max-width: 175px;
+  }
+  &__body {
+    max-width: 800px;
+    margin-left: auto;
+    margin-right: auto;
+  }
+}
+
+// Dashboard Overview Grid
+.presto-dashboard {
+}

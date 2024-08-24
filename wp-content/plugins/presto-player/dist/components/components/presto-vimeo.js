@@ -1,0 +1,1 @@
+import{P as PrestoVimeo$1,d as defineCustomElement$1}from"./presto-vimeo2.js";const PrestoVimeo=PrestoVimeo$1,defineCustomElement=defineCustomElement$1;export{PrestoVimeo,defineCustomElement};

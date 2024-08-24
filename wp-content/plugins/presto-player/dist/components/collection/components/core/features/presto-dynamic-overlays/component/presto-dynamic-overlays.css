@@ -1,0 +1,36 @@
+.top-left,
+.top-right {
+  position: absolute;
+  display: block;
+  padding: 20px;
+  max-width: 45%;
+  z-index: 20;
+  display: flex;
+  flex-direction: column;
+  flex-wrap: wrap;
+}
+
+.top-left {
+  top: 0;
+  left: 0;
+}
+
+.top-right {
+  top: 0;
+  right: 0;
+  align-items: flex-end;
+}
+
+presto-dynamic-overlay-ui {
+  overflow: hidden; /* Hide the element content, while height = 0 */
+  height: 0;
+  opacity: 0;
+  transition: height 0ms 400ms, opacity 400ms 0ms;
+}
+
+presto-dynamic-overlay-ui.visible {
+  margin-bottom: 10px;
+  height: auto;
+  opacity: 1;
+  transition: height 0ms 0ms, opacity 500ms 0ms;
+}

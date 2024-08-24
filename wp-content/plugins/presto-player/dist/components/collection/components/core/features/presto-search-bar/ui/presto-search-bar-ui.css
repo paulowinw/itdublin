@@ -1,0 +1,96 @@
+:host {
+  display: block;
+}
+
+.search-bar {
+  position: relative;
+  font-family: var(--plyr-font-family, "San Francisco", -apple-system, BlinkMacSystemFont, ".SFNSText-Regular", Avenir, "Avenir Next", "Helvetica Neue", "Segoe UI", Helvetica, Arial, sans-serif);
+  font-size: 16px;
+  color: #ddd;
+  z-index: 1;
+  display: flex;
+  align-items: center;
+  gap: 10px;
+}
+.search-bar > * {
+  height: 41px;
+}
+.search-bar__controls {
+  display: flex;
+  align-items: stretch;
+  position: absolute;
+  right: 0;
+}
+.search-bar__controls svg {
+  display: block;
+  width: 25px;
+  height: 25px;
+}
+.search-bar__placeholder {
+  height: 0;
+  font-weight: bold;
+  visibility: hidden;
+  position: absolute;
+  transition: none;
+  white-space: nowrap;
+}
+.search-bar input {
+  z-index: 1;
+  box-sizing: border-box;
+  background: transparent;
+  border: none;
+  color: #fff;
+  font-size: 16px;
+  transition: width 0.25s ease;
+  outline: none;
+  padding: 0;
+}
+.search-bar input::placeholder {
+  color: #fff;
+}
+.search-bar__control-prev, .search-bar__control-next, .search-bar__control-clear {
+  opacity: 0;
+  visibility: hidden;
+  transition: 0.3s cubic-bezier(0.165, 0.84, 0.44, 1);
+  transform-origin: center center;
+  padding: 0;
+  border: 0;
+  background: 0;
+  cursor: pointer;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  z-index: 1;
+}
+.search-bar__control-clear {
+  transform: scale(0.5);
+}
+.search-bar--is-active input {
+  width: 300px !important;
+  padding-right: 26px;
+}
+.search-bar--is-active.search-bar--has-navigation .search-bar__control-prev,
+.search-bar--is-active.search-bar--has-navigation .search-bar__control-next {
+  opacity: 1;
+  visibility: visible;
+}
+.search-bar--is-active.search-bar--has-navigation input {
+  padding-right: 80px;
+}
+.search-bar--is-active .search-bar__control-clear {
+  transform: scale(1);
+  opacity: 1;
+  visibility: visible;
+  cursor: pointer;
+}
+.search-bar__icon {
+  width: 20px;
+  height: 20px;
+  flex-grow: 0;
+  flex-shrink: 0;
+  cursor: pointer;
+}
+.search-bar__icon svg {
+  width: 20px;
+  height: 20px;
+}

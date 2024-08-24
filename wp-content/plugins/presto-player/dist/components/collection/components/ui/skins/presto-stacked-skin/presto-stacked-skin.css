@@ -1,0 +1,103 @@
+.skin-stacked .plyr__controls {
+  flex-wrap: wrap;
+}
+.skin-stacked .presto-player-progress__marker {
+  transform: scale(0.75);
+}
+.skin-stacked .plyr__controls {
+  justify-content: flex-start;
+}
+.skin-stacked .plyr__controls__item.plyr__progress__container {
+  order: -1;
+  flex: 1 0 100%;
+}
+.skin-stacked .plyr__controls__item.plyr__progress__container + :not(.plyr__time),
+.skin-stacked .plyr__controls__item.plyr__progress__container + .plyr__time + * {
+  margin-left: auto;
+}
+.skin-stacked .plyr__controls .plyr__controls__item:first-child {
+  margin: 0;
+}
+.skin-stacked .plyr__progress {
+  height: 19px;
+  display: flex;
+  align-items: center;
+}
+.skin-stacked .plyr__progress .plyr__progress__buffer {
+  height: 3px;
+  transition: all 0.25s ease;
+  position: absolute;
+  top: calc(50% + 1px);
+}
+.skin-stacked .plyr__progress input[type=range]::-moz-range-track {
+  height: 3px;
+  transition: all 0.25s ease;
+}
+.skin-stacked .plyr__progress input[type=range]::-webkit-slider-runnable-track {
+  height: 3px;
+  transition: all 0.25s ease;
+}
+.skin-stacked .plyr__progress input[type=range]::-ms-track {
+  height: 3px;
+  transition: all 0.25s ease;
+}
+.skin-stacked .plyr__progress input[type=range]::-ms-fill-upper {
+  height: 3px;
+  transition: all 0.25s ease;
+}
+.skin-stacked .plyr__progress input[type=range]::-ms-fill-lower {
+  height: 3px;
+  transition: height 0.25s ease;
+}
+.skin-stacked .plyr__progress input[type=range]::-webkit-slider-thumb {
+  visibility: hidden;
+  opacity: 0;
+  transition: opacity 0.25s ease;
+}
+.skin-stacked .plyr__progress input[type=range]::-moz-range-thumb {
+  visibility: hidden;
+  opacity: 0;
+  transition: opacity 0.25s ease;
+}
+.skin-stacked .plyr__progress input[type=range]::-ms-thumb {
+  visibility: hidden;
+  opacity: 0;
+  transition: opacity 0.25s ease;
+}
+.skin-stacked .plyr__progress__container:hover .presto-player-progress__marker {
+  transform: scale(1);
+}
+.skin-stacked .plyr__progress__container:hover .plyr__progress .plyr__progress__buffer {
+  height: 5px;
+  top: 50%;
+}
+.skin-stacked .plyr__progress__container:hover .plyr__progress input[type=range] {
+  overflow: visible;
+}
+.skin-stacked .plyr__progress__container:hover .plyr__progress input[type=range]::-moz-range-track {
+  height: 5px;
+}
+.skin-stacked .plyr__progress__container:hover .plyr__progress input[type=range]::-webkit-slider-runnable-track {
+  height: 5px;
+}
+.skin-stacked .plyr__progress__container:hover .plyr__progress input[type=range]::-ms-track {
+  height: 5px;
+}
+.skin-stacked .plyr__progress__container:hover .plyr__progress input[type=range]::-ms-fill-upper {
+  height: 5px;
+}
+.skin-stacked .plyr__progress__container:hover .plyr__progress input[type=range]::-ms-fill-lower {
+  height: 5px;
+}
+.skin-stacked .plyr__progress__container:hover .plyr__progress input[type=range]::-webkit-slider-thumb {
+  visibility: visible;
+  opacity: 1;
+}
+.skin-stacked .plyr__progress__container:hover .plyr__progress input[type=range]::-moz-range-thumb {
+  visibility: visible;
+  opacity: 1;
+}
+.skin-stacked .plyr__progress__container:hover .plyr__progress input[type=range]::-ms-thumb {
+  visibility: visible;
+  opacity: 1;
+}

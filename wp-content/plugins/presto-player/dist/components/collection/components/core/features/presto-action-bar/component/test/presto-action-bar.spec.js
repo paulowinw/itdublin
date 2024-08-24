@@ -1,0 +1,1 @@
+import{newSpecPage}from"@stencil/core/testing";import{PrestoActionBar}from"../presto-action-bar";describe("presto-action-bar",(()=>{it("renders",(async()=>{const t=await newSpecPage({components:[PrestoActionBar],html:"<presto-action-bar></presto-action-bar>"});expect(t.root).toMatchSnapshot()}))}));

@@ -1,0 +1,1 @@
+import{Host,h}from"@stencil/core";export class PrestoStackedSkin{render(){return h(Host,{key:"1f879dbd91a7b1b49bcdc94b3299000023a9f914"},h("slot",{key:"69281f1405ff6ffdad92b63969811c0a6ac8be1f"}))}static get is(){return"presto-stacked-skin"}static get originalStyleUrls(){return{$:["presto-stacked-skin.scss"]}}static get styleUrls(){return{$:["presto-stacked-skin.css"]}}}

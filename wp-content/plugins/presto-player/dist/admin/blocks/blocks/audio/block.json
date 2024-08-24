@@ -1,0 +1,69 @@
+{
+  "$schema": "https://schemas.wp.org/trunk/block.json",
+  "name": "presto-player/audio",
+  "title": "Presto Audio",
+  "category": "presto",
+  "description": "A audio player wrapper.",
+  "keywords": [
+    "audio"
+  ],
+  "textdomain": "presto-player",
+  "attributes": {
+    "src": {
+      "type": "string"
+    },
+    "autoplay": {
+      "type": "boolean",
+      "default": false
+    },
+    "poster": {
+      "type": "string"
+    },
+    "chapters": {
+      "type": "array",
+      "default": []
+    },
+    "preload": {
+      "type": "string"
+    },
+    "title": {
+      "type": "string"
+    },
+    "tracks": {
+      "type": "array",
+      "items": {
+        "type": "object"
+      },
+      "default": []
+    },
+    "preset": {
+      "type": "number"
+    },
+    "id": {
+      "type": "number"
+    },
+    "attachment_id": {
+      "type": "number"
+    },
+    "visibility": {
+      "type": "string",
+      "default": "public"
+    }
+  },
+  "variations": [
+    {
+      "name": "public",
+      "isDefault": true,
+      "title": "Presto Audio",
+      "description": "Presto Self-hosted Audio block.",
+      "attributes": {
+        "visibility": "public"
+      }
+    }
+  ],
+  "supports": {
+    "align": true,
+    "inserter": false
+  },
+  "script": "presto-components"
+}

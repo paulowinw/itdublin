@@ -1,0 +1,1 @@
+import{newE2EPage}from"@stencil/core/testing";describe("presto-player-spinner",(()=>{it("renders",(async()=>{const e=await newE2EPage();await e.setContent("<presto-player-spinner></presto-player-spinner>");const t=await e.find("presto-player-spinner");expect(t).toHaveClass("hydrated")}))}));

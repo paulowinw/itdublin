@@ -1,0 +1,1 @@
+import{newE2EPage}from"@stencil/core/testing";describe("presto-youtube-subscribe-button",(()=>{it("renders",(async()=>{const t=await newE2EPage();await t.setContent("<presto-youtube-subscribe-button></presto-youtube-subscribe-button>");const e=await t.find("presto-youtube-subscribe-button");expect(e).toHaveClass("hydrated")}))}));

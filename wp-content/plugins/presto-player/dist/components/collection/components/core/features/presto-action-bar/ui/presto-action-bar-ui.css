@@ -1,0 +1,40 @@
+:host {
+  display: block;
+  overflow: hidden;
+}
+
+.bar {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: center;
+  background: var(--presto-action-bar-background, #1d1d1d);
+  color: #fff;
+  padding: 0 var(--presto-action-bar-padding, 6px);
+  line-height: 1em;
+  font-size: 16px;
+  margin-top: -100%;
+  transition: margin var(--presto-action-bar-animation-speed, 0.5s) ease-in-out;
+  transform: translate3d(0);
+  border-radius: 0px 0px var(--presto-player-border-radius) var(--presto-player-border-radius);
+}
+.bar.bar--open {
+  margin-top: 0;
+}
+
+.bar__button {
+  margin: var(--presto-action-bar-padding, 6px);
+  display: flex;
+  align-items: center;
+}
+
+.bar__content {
+  margin: var(--presto-action-bar-padding, 6px);
+  width: 100%;
+  text-align: center;
+}
+@media screen and (min-width: 480px) {
+  .bar__content {
+    width: auto;
+  }
+}

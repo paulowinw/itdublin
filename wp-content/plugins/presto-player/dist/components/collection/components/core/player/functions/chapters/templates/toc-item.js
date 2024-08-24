@@ -1,0 +1,1 @@
+export default function({name:e="Untitled",order:t=1,highlight:n=!1}){return`<div class="presto-player-toc__chapter ${n?"is-highlighted":""}" data-chapter-item>\n  \n  <span class="presto-player-toc__order">\n    ${t}\n  </span>\n  <span class="presto-player-toc__name">\n    ${e}\n  </div>\n</div>`}

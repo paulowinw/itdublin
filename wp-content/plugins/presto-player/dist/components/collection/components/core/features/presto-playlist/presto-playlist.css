@@ -1,0 +1,14 @@
+:host {
+  display: block;
+  overflow: hidden;
+}
+
+presto-player {
+  opacity: 0;
+  visibility: hidden;
+  transition: 0.35s opacity, 0.35s visibility;
+}
+presto-player.ready {
+  opacity: 1;
+  visibility: visible;
+}

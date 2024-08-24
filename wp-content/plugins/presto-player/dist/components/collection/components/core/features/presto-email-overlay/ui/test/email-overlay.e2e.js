@@ -1,0 +1,1 @@
+import{newE2EPage}from"@stencil/core/testing";describe("email-overlay",(()=>{it("renders",(async()=>{const e=await newE2EPage();await e.setContent("<presto-email-overlay-ui></presto-email-overlay-ui>");const a=await e.find("presto-email-overlay-ui");expect(a).toHaveClass("hydrated")}))}));

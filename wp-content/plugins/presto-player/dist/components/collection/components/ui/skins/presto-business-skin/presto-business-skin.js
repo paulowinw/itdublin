@@ -1,0 +1,1 @@
+import{Host,h}from"@stencil/core";export class PrestoBusinessSkin{render(){return h(Host,{key:"43b7781a757d117be4457ee9fec35756fe48d025"},h("slot",{key:"39cd2e2e479e5959ba8980ba74c72faa006ed867"}))}static get is(){return"presto-business-skin"}static get originalStyleUrls(){return{$:["presto-business-skin.scss"]}}static get styleUrls(){return{$:["presto-business-skin.css"]}}}
